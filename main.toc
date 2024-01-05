@@ -1,10 +1,10 @@
 \beamer@sectionintoc {1}{Einführung}{2}{0}{1}
-\beamer@sectionintoc {2}{Anforderungen von Studenten}{4}{0}{2}
-\beamer@sectionintoc {3}{Kriterien für die Auswahl von Tools}{5}{0}{3}
-\beamer@sectionintoc {4}{Ausgewählte Tools}{6}{0}{4}
-\beamer@subsectionintoc {4}{1}{Mitschriften}{6}{0}{4}
-\beamer@subsectionintoc {4}{2}{Kollaboration}{8}{0}{4}
-\beamer@subsectionintoc {4}{3}{Literatur Recherche}{10}{0}{4}
-\beamer@sectionintoc {5}{Addendum}{14}{0}{5}
-\beamer@subsectionintoc {5}{1}{Günstige Hardware}{14}{0}{5}
-\beamer@subsectionintoc {5}{2}{Support}{15}{0}{5}
+\beamer@sectionintoc {2}{Anforderungen von Studenten}{5}{0}{2}
+\beamer@sectionintoc {3}{Kriterien für die Auswahl von Tools}{6}{0}{3}
+\beamer@sectionintoc {4}{Ausgewählte Tools}{7}{0}{4}
+\beamer@subsectionintoc {4}{1}{Mitschriften}{7}{0}{4}
+\beamer@subsectionintoc {4}{2}{Kollaboration}{9}{0}{4}
+\beamer@subsectionintoc {4}{3}{Literatur Recherche}{11}{0}{4}
+\beamer@sectionintoc {5}{Addendum}{15}{0}{5}
+\beamer@subsectionintoc {5}{1}{Günstige Hardware}{15}{0}{5}
+\beamer@subsectionintoc {5}{2}{Support}{16}{0}{5}
