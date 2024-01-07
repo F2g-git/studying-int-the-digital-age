@@ -2,8 +2,7 @@
 \beamer@subsectionintoc {1}{1}{Anforderungen von Studenten}{4}{0}{1}
 \beamer@sectionintoc {2}{Ausgewählte Tools}{11}{0}{2}
 \beamer@subsectionintoc {2}{1}{Mitschriften}{11}{0}{2}
-\beamer@subsectionintoc {2}{2}{Literatur}{17}{0}{2}
-\beamer@subsectionintoc {2}{3}{Kollaboration}{20}{0}{2}
-\beamer@sectionintoc {3}{Addendum}{23}{0}{3}
-\beamer@subsectionintoc {3}{1}{Günstige Hardware}{23}{0}{3}
-\beamer@subsectionintoc {3}{2}{Support}{24}{0}{3}
+\beamer@subsectionintoc {2}{2}{Literatur}{18}{0}{2}
+\beamer@sectionintoc {3}{Addendum}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{Günstige Hardware}{27}{0}{3}
+\beamer@subsectionintoc {3}{2}{Support}{28}{0}{3}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.16)  7 JAN 2024 16:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.16)  7 JAN 2024 19:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -594,31 +594,146 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \ULC@box=\box84
 Package: ulem 2019/11/18
 \ULdepth=\dimen306
-) (d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (d:/texlive/2021/texmf-dist/tex/latex/forest/forest.sty
+Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodepartlowerbox=\box85
+\pgfnodeparttwobox=\box86
+\pgfnodepartthreebox=\box87
+\pgfnodepartfourbox=\box88
+\pgfnodeparttwentybox=\box89
+\pgfnodepartnineteenbox=\box90
+\pgfnodeparteighteenbox=\box91
+\pgfnodepartseventeenbox=\box92
+\pgfnodepartsixteenbox=\box93
+\pgfnodepartfifteenbox=\box94
+\pgfnodepartfourteenbox=\box95
+\pgfnodepartthirteenbox=\box96
+\pgfnodeparttwelvebox=\box97
+\pgfnodepartelevenbox=\box98
+\pgfnodeparttenbox=\box99
+\pgfnodepartninebox=\box100
+\pgfnodeparteightbox=\box101
+\pgfnodepartsevenbox=\box102
+\pgfnodepartsixbox=\box103
+\pgfnodepartfivebox=\box104
+))) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfit.code.tex
+File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+\pgf@intersect@solutions=\count337
+) (d:/texlive/2021/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks50
+\pgfopts@list@add@b@toks=\toks51
+) (d:/texlive/2021/texmf-dist/tex/latex/elocalloc/elocalloc.sty
+Package: elocalloc 2016/12/15 v0.03 local allocation for LaTeX 2015+ (DPC)
+) (d:/texlive/2021/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (d:/texlive/2021/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)) (d:/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (d:/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-06-01 L3 programming layer (loader) 
+ (d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count337
-\l__pdf_internal_box=\box85
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box105
+))
+Package: xparse 2021-06-01 L3 Experimental document command parser
+) (d:/texlive/2021/texmf-dist/tex/latex/inlinedef/inlinedef.sty
+Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
+\ID@toks=\toks52
+\ID@count=\count339
+)
+\ID@usercommands=\toks53
+\safeloop@depth=\count340
+\safeRKloop@depth=\count341
+\forest@temp@dimen=\dimen307
+\forest@temp@count=\count342
+\forest@n=\count343
+\forest@temp@global@count=\count344
+\forest@temp@toks=\toks54
+\forest@temparray@M=\count345
+\forest@temparray@N=\count346
+\forest@global@temparray@M=\count347
+\forest@global@temparray@N=\count348
+\forest@isnum@count=\count349
+\forest@isdim@nonintpart=\count350
+\forest@isdim@dimen=\dimen308
+\forest@sort@m=\count351
+\forest@sort@k=\count352
+\forest@sort@p=\count353
+\bracket@content=\toks55
+\bracket@afterthought=\toks56
+\forest@node@maxid=\count354
+\forest@process@left@M=\count355
+\forest@process@left@N=\count356
+\forest@process@right@M=\count357
+\forest@process@right@N=\count358
+\forest@process@saved@M=\count359
+\forest@process@saved@N=\count360
+\forest@process@result@M=\count361
+\forest@process@result@N=\count362
+\forest@process@n=\count363
+\forest@nodewalk@branch@toks=\toks57
+\forest@nodewalk@shortsteps@resolution=\toks58
+\forest@do@dynamics=\toks59
+\forest@box=\box106
+\forest@xg=\dimen309
+\forest@yg=\dimen310
+\forest@xs=\dimen311
+\forest@ys=\dimen312
+\forest@pi@toks=\toks60
+\forest@segment@toks=\toks61
+\forest@PIi@toks=\toks62
+\forest@PIii@toks=\toks63
+\forest@copy@in=\read3
+\forest@copy@out=\write5
+\forest@externalize@max@outer@n=\count364
+\forest@externalize@inner@n=\count365
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -656,30 +771,24 @@ LaTeX Font Info:    ... okay on input line 14.
 
 (d:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count338
-\scratchdimen=\dimen307
-\scratchbox=\box86
-\nofMPsegments=\count339
-\nofMParguments=\count340
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count341
-\MPscratchDim=\dimen308
-\MPnumerator=\count342
-\makeMPintoPDFobject=\count343
-\everyMPtoPDFconversion=\toks51
+\scratchcounter=\count366
+\scratchdimen=\dimen313
+\scratchbox=\box107
+\nofMPsegments=\count367
+\nofMParguments=\count368
+\everyMPshowfont=\toks64
+\MPscratchCnt=\count369
+\MPscratchDim=\dimen314
+\MPnumerator=\count370
+\makeMPintoPDFobject=\count371
+\everyMPtoPDFconversion=\toks65
 ) (d:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (d:/texlive/2021/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (d:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 14.
+Package hyperref Info: Link coloring OFF on input line 25.
  (d:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (d:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -687,64 +796,64 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (d:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count344
+\c@section@level=\count372
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 25.
+LaTeX Info: Redefining \pageref on input line 25.
+LaTeX Info: Redefining \nameref on input line 25.
  (./main.out) (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write6
+\openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 14.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 14.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 14.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 14.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 14.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 14.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 14.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 14.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 25.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 14.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 14.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 14.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 14.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 14.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 14.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 14.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 25.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 14.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 14.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 25.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 14.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 14.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 25.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 14.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 25.
  (d:/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (d:/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -764,202 +873,202 @@ Dictionary: translator-theorem-dictionary, Language: English
 ] (./main.toc) [3
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
  (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 39.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 50.
  (d:/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [4
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
-<graphics/Meine_Mitschriften.jpg, id=163, 602.25pt x 903.375pt>
+<graphics/Meine_Mitschriften.jpg, id=159, 602.25pt x 903.375pt>
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
-<graphics/Meine_Mitschriften_Tablet.png, id=164, 685.8122pt x 824.32968pt>
+<graphics/Meine_Mitschriften_Tablet.png, id=160, 685.8122pt x 824.32968pt>
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
-<graphics/Meine-Unterlagen.png, id=166, 197.98969pt x 365.86688pt>
+<graphics/Meine-Unterlagen.png, id=162, 197.98969pt x 365.86688pt>
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
-<graphics/overwhelmed_student_2.jpg, id=167, 1129.21875pt x 1129.21875pt>
+<graphics/overwhelmed_student_2.jpg, id=163, 1129.21875pt x 1129.21875pt>
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [5
 
  <./graphics/Meine_Mitschriften.jpg> <./graphics/Meine_Mitschriften_Tablet.png> <./graphics/Meine-Unterlagen.png> <./graphics/overwhelmed_student_2.jpg>]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [6
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [7
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [8
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [9
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 65--65
+Underfull \hbox (badness 10000) in alignment at lines 76--76
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 65.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 76.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 65.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 76.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 [10
 
 ] [11
 
 ]
-<graphics/Logos/GoogleWorkspace.jpeg, id=350, 475.7775pt x 154.5775pt>
+<graphics/Logos/GoogleWorkspace.jpeg, id=346, 475.7775pt x 154.5775pt>
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
-<graphics/Logos/Office365.png, id=351, 3854.4pt x 2168.1pt>
+<graphics/Logos/Office365.png, id=347, 3854.4pt x 2168.1pt>
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
-<graphics/Logos/Evernote.jpeg, id=352, 475.7775pt x 266.9975pt>
+<graphics/Logos/Evernote.jpeg, id=348, 475.7775pt x 266.9975pt>
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
-<graphics/Logos/Notion.jpeg, id=353, 475.7775pt x 167.62625pt>
+<graphics/Logos/Notion.jpeg, id=349, 475.7775pt x 167.62625pt>
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
  [12
 
  <./graphics/Logos/GoogleWorkspace.jpeg> <./graphics/Logos/Office365.png> <./graphics/Logos/Evernote.jpeg> <./graphics/Logos/Notion.jpeg>]
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 102.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 113.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
  [13
 
@@ -968,64 +1077,60 @@ Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 102.
 ] [15
 
 ]
-<graphics/Logos/Obsidian.png, id=458, 475.7775pt x 476.53032pt>
+<graphics/Logos/Obsidian.png, id=455, 475.7775pt x 476.53032pt>
 File: graphics/Logos/Obsidian.png Graphic file (type png)
 <use graphics/Logos/Obsidian.png>
-Package pdftex.def Info: graphics/Logos/Obsidian.png  used on input line 158.
-(pdftex.def)             Requested size: 42.67912pt x 42.74045pt.
-<graphics/Logos/Joplin.png, id=459, 602.25pt x 602.25pt>
+Package pdftex.def Info: graphics/Logos/Obsidian.png  used on input line 181.
+(pdftex.def)             Requested size: 28.45274pt x 28.49605pt.
+<graphics/Logos/Joplin.png, id=456, 602.25pt x 602.25pt>
 File: graphics/Logos/Joplin.png Graphic file (type png)
 <use graphics/Logos/Joplin.png>
-Package pdftex.def Info: graphics/Logos/Joplin.png  used on input line 158.
-(pdftex.def)             Requested size: 42.67912pt x 42.67642pt.
-<graphics/Logos/OneNote.jpeg, id=460, 372.39125pt x 325.215pt>
+Package pdftex.def Info: graphics/Logos/Joplin.png  used on input line 181.
+(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
+<graphics/Logos/OneNote.jpeg, id=457, 372.39125pt x 325.215pt>
 File: graphics/Logos/OneNote.jpeg Graphic file (type jpg)
 <use graphics/Logos/OneNote.jpeg>
-Package pdftex.def Info: graphics/Logos/OneNote.jpeg  used on input line 158.
-(pdftex.def)             Requested size: 42.67912pt x 37.27238pt.
-<graphics/Logos/Word.jpeg, id=461, 475.7775pt x 475.7775pt>
+Package pdftex.def Info: graphics/Logos/OneNote.jpeg  used on input line 181.
+(pdftex.def)             Requested size: 28.45274pt x 24.8466pt.
+<graphics/Logos/Word.jpeg, id=458, 475.7775pt x 475.7775pt>
 File: graphics/Logos/Word.jpeg Graphic file (type jpg)
 <use graphics/Logos/Word.jpeg>
-Package pdftex.def Info: graphics/Logos/Word.jpeg  used on input line 158.
-(pdftex.def)             Requested size: 42.67912pt x 42.67293pt.
-<graphics/Logos/Sciebo.jpeg, id=462, 401.5pt x 401.5pt>
+Package pdftex.def Info: graphics/Logos/Word.jpeg  used on input line 181.
+(pdftex.def)             Requested size: 28.45274pt x 28.45103pt.
+<graphics/Logos/Sciebo.jpeg, id=459, 401.5pt x 401.5pt>
 File: graphics/Logos/Sciebo.jpeg Graphic file (type jpg)
 <use graphics/Logos/Sciebo.jpeg>
-Package pdftex.def Info: graphics/Logos/Sciebo.jpeg  used on input line 158.
+Package pdftex.def Info: graphics/Logos/Sciebo.jpeg  used on input line 181.
 (pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
-<graphics/Logos/Dropbox.jpeg, id=463, 475.7775pt x 475.7775pt>
+<graphics/Logos/Dropbox.jpeg, id=460, 475.7775pt x 475.7775pt>
 File: graphics/Logos/Dropbox.jpeg Graphic file (type jpg)
 <use graphics/Logos/Dropbox.jpeg>
-Package pdftex.def Info: graphics/Logos/Dropbox.jpeg  used on input line 158.
+Package pdftex.def Info: graphics/Logos/Dropbox.jpeg  used on input line 181.
 (pdftex.def)             Requested size: 56.9055pt x 56.90207pt.
  [16
 
- <./graphics/Logos/Obsidian.png> <./graphics/Logos/Joplin.png> <./graphics/Logos/OneNote.jpeg> <./graphics/Logos/Word.jpeg> <./graphics/Logos/Sciebo.jpeg> <./graphics/Logos/Dropbox.jpeg>]
-<graphics/LiteraturChaos.jpeg, id=491, 205.76875pt x 316.18124pt>
+ <./graphics/Logos/Obsidian.png> <./graphics/Logos/Joplin.png> <./graphics/Logos/OneNote.jpeg> <./graphics/Logos/Word.jpeg> <./graphics/Logos/Sciebo.jpeg> <./graphics/Logos/Dropbox.jpeg>] [17
+
+]
+<graphics/LiteraturChaos.jpeg, id=513, 205.76875pt x 316.18124pt>
 File: graphics/LiteraturChaos.jpeg Graphic file (type jpg)
 <use graphics/LiteraturChaos.jpeg>
-Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 192.
+Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 285.
 (pdftex.def)             Requested size: 131.24255pt x 201.6606pt.
 
-Overfull \hbox (15.72705pt too wide) in paragraph at lines 192--192
+Overfull \hbox (15.72705pt too wide) in paragraph at lines 285--285
  [] 
  []
 
+[18
 
-Overfull \vbox (23.38364pt too high) detected at line 192
- []
-
-[17
-
- <./graphics/LiteraturChaos.jpeg>] [18
-
-]
+ <./graphics/LiteraturChaos.jpeg>]
 File: graphics/LiteraturChaos.jpeg Graphic file (type jpg)
 <use graphics/LiteraturChaos.jpeg>
-Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 222.
+Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 304.
 (pdftex.def)             Requested size: 131.24255pt x 201.6606pt.
 
-Overfull \hbox (15.72705pt too wide) in paragraph at lines 222--222
+Overfull \hbox (15.72705pt too wide) in paragraph at lines 304--304
  [] 
  []
 
@@ -1041,40 +1146,48 @@ Overfull \hbox (15.72705pt too wide) in paragraph at lines 222--222
 
 ] [24
 
+] [25
+
+] [26
+
+] [27
+
+] [28
+
 ]
-Overfull \hbox (68.11807pt too wide) in alignment at lines 275--275
+Overfull \hbox (68.11807pt too wide) in alignment at lines 372--372
 [][] 
  []
 
-[25
+[29
 
 ]
-\tf@nav=\write6
-\openout6 = `main.nav'.
+\tf@nav=\write7
+\openout7 = `main.nav'.
 
-\tf@toc=\write7
-\openout7 = `main.toc'.
+\tf@toc=\write8
+\openout8 = `main.toc'.
 
-\tf@snm=\write8
-\openout8 = `main.snm'.
+\tf@snm=\write9
+\openout9 = `main.snm'.
 
  (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 60AAA38D5FABAFB729952686437FC30B;1097.
+(rerunfilecheck)             Checksum: 314F3329F2DD234658E4DE755F3A9C6A;974.
  ) 
 Here is how much of TeX's memory you used:
- 24212 strings out of 478512
- 462092 string characters out of 5853626
- 752455 words of memory out of 5000000
- 41587 multiletter control sequences out of 15000+600000
- 417296 words of font info for 77 fonts, out of 8000000 for 9000
+ 35978 strings out of 478512
+ 785644 string characters out of 5853626
+ 1106306 words of memory out of 5000000
+ 53266 multiletter control sequences out of 15000+600000
+ 417632 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,124p,481b,935s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (25 pages, 1024698 bytes).
+ 131i,14n,128p,1632b,2969s stack positions out of 5000i,500n,10000p,200000b,80000s
+<d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on main.pdf (29 pages, 1047202 bytes).
 PDF statistics:
- 775 PDF objects out of 1000 (max. 8388607)
- 697 compressed objects within 7 object streams
- 60 named destinations out of 1000 (max. 500000)
- 190 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 879 PDF objects out of 1000 (max. 8388607)
+ 794 compressed objects within 8 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

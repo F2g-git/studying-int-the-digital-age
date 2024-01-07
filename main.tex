@@ -4,12 +4,23 @@
 \usepackage{tabularx}
 \usepackage[normalem]{ulem}
 \usepackage{hyperref}
-
+\usepackage{forest}
 
 
 \title{Studieren im Digitalen Zeitalter \\\small Tools und Methoden\\ V0.1}
 \author{Florian Rössing}
 \date{\today}
+
+\definecolor{folderbg}{RGB}{255,160,0}
+\definecolor{folderbody}{RGB}{255,202,40}
+\def\Size{4pt}
+\tikzset{
+  folder/.pic={
+    \filldraw[rounded corners=0.3pt,color=folderbg](1pt,0.5*\Size-1pt) rectangle (1pt+0.4*9/6*\Size,0.5*\Size+1pt);  
+    \filldraw[rounded corners=0.3pt,color=folderbody](1pt,-.5*\Size) rectangle (9/6*\Size+1pt,.5*\Size);  
+    %\filldraw[](-\Size,-\Size) rectangle (\Size,\Size);
+  }
+}
 
 \begin{document}
 
@@ -138,14 +149,21 @@ Wissen ist auch nur eine Art von Daten!}
 \begin{frame}[t]{DIY:}
 \begin{columns}[t]   
     \begin{column}{0.5\textwidth}
-    \Large Notizen:\\
+    {\Large Notizen:\\}
     \begin{tikzpicture}
-        \def\width{1.5cm}
-        \node[anchor=north west] at (1,0) {\includegraphics[width=\width]{graphics/Logos/Obsidian.png}};
-        \node[anchor=north west] at (2,1.6) {\includegraphics[width=\width]{graphics/Logos/Joplin.png}};
-        \node[anchor=north west] at (2.4,3.4) {\includegraphics[width=\width]{graphics/Logos/OneNote.jpeg}};
-        \node[anchor=north west] at (1.6,5) {\includegraphics[width=\width]{graphics/Logos/Word.jpeg}};
+        \def\width{1cm}
+        \node[anchor=north west] at (0,0) {\includegraphics[width=\width]{graphics/Logos/Obsidian.png}};
+        \node[anchor=north west] at (\width,0) {\includegraphics[width=\width]{graphics/Logos/Joplin.png}};
+        \node[anchor=north west] at (0,\width) {\includegraphics[width=\width]{graphics/Logos/OneNote.jpeg}};
+        \node[anchor=north west] at (\width,\width) {\includegraphics[width=\width]{graphics/Logos/Word.jpeg}};
         \end{tikzpicture}
+        \begin{enumerate}
+            \item Verfügbar auf allen Geräten
+            \item 
+            \item Dateien übergreifende Suche
+            \item Notizen Verknüpfen
+            \item Verknüpfungen zu Quellen herstellen
+        \end{enumerate}  
 \end{column}
 \begin{column}{0.5\textwidth}
     \Large Cloud:\\
@@ -153,6 +171,11 @@ Wissen ist auch nur eine Art von Daten!}
         \node[anchor=south west] at (0,2) {\includegraphics[width=2cm]{graphics/Logos/Sciebo.jpeg}};
         \node[anchor=south west] at (0,4) {\includegraphics[width=2cm]{graphics/Logos/Dropbox.jpeg}};
     \end{tikzpicture}
+    \begin{enumerate}
+        \item Sollte möglichst wenig kosten
+        \item Speicherplatz 10 bis 50GB ausreichend
+        \item 
+    \end{enumerate}  
 \end{column}        
 \end{columns}
 \end{frame}
@@ -164,6 +187,76 @@ Zusätzlich zu Notizen, müsst ihr die natürlich auch irgendwo Speichern, zusam
 Eine Cloud Lösung ist dafür ideal.
 Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine alternative die von fast allen Universitäten angeboten wird. 
 }
+
+\begin{frame}[t]{Dateien Ordentlich ablegen}
+\begin{columns}
+    \begin{column}{0.5\textwidth}
+        \vspace{-8cm}
+        \begin{block}{Ein paar Grundregeln}
+            \begin{itemize}
+                \item Überlegt euch eine Struktur. 
+                \item Schreibt die auf. Gute Angewohnheit: Eine ReadMe in den Top Ordner legen.
+                \item Versucht möglichst wenige Ordner Level zu haben.
+            \end{itemize}     
+        \end{block}        
+        \vfill   
+    \end{column}
+    \begin{column}[t]{0.35\textwidth}
+        \begin{forest}
+            for tree={
+              font=\ttfamily,
+              grow'=0,
+              child anchor=west,
+              parent anchor=south,
+              anchor=west,
+              calign=first,
+              inner xsep=7pt,
+              s sep=1pt,
+              edge path={
+                \noexpand\path [draw, \forestoption{edge}]
+                (!u.south west) +(2pt,0) |- (.child anchor) pic {folder} \forestoption{edge label};
+              },
+              file/.style={edge path={\noexpand\path [draw, \forestoption{edge}]
+                (!u.south west) +(7.5pt,0) |- (.child anchor) \forestoption{edge label};},
+                inner xsep=2pt,inner ysep=0pt,font=\small\ttfamily
+                     },
+              before typesetting nodes={
+                if n=1
+                  {insert before={[,phantom]}}
+                  {if n=3 
+                  {insert before={[,phantom]}}
+                  {}
+                  }                
+              },
+              fit=band,
+              before computing xy={l=15pt},
+            }  
+          [SS24
+                [ReadMe.txt,file]
+                [Grundlagen 1
+                    [SW1
+                        [VL.pdf,file]
+                        [Übung.pdf,file]
+                    ]
+                    [SW2]
+                ]
+                [Nebenfach 1
+                    [VL
+                       [VL1.pdf,file]
+                       [VL2.pdf,file]
+                    ]
+                    [Übungen
+                        [Ü1.pdf,file]
+                        [Ü2.pdf,file]
+                    ]
+                ]
+            ]
+          \end{forest}
+    \end{column}
+\end{columns}
+   
+
+\end{frame}
 
 \subsection{Literatur}
 \begin{frame}{Literatur Recherche}
@@ -182,24 +275,13 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
                 \item ChatGPT
                 \item Eure Uni Bibliothek!
             \end{itemize}           
+            \vspace{1cm}            
+            \begin{itemize}
+                \item \textcolor{lightgray}{libgen.ist}
+                \item \textcolor{lightgray}{scihub.st}
+            \end{itemize} 
         \end{column}        
     \end{columns}  
-    \begin{enumerate}
-        \item Dateien übergriefende Suche
-        \item Notizen Verknüpfen
-        \item Verknüpfungen zu Quellen herstellen
-    \end{enumerate}  
-\end{frame}
-
-\begin{frame}{Dateien Ordentlich ablegen}
-    Eine Frage des Geschmacks
-
-    Ein paar grunregeln:
-    1. Überlegt euch eine Struktur bevor ihr anfangt.
-    2. Schreibt die auf. Gute Angewohnheit: Eine ReadMe in den Top Ordner legen.
-    3. Versucht möglichst wenige Ordner Level zu haben. <= 3 ist eine gute wahl
-    
-
 \end{frame}
 
 
@@ -221,12 +303,34 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
     \end{columns}    
 \end{frame}
 
+\begin{frame}{Zettelkasten}
+    Eine Methode gelerntes zu Dokumentieren und Organisieren
+    - Brecht wissen herunter auf atomare kleine zettelchen
+    - linkt nahe gelegenes wissen 
+\end{frame}
 
+\begin{frame}{Lernkarten mit Anki}
+    Einfaches Erstellen von Lernkarten
+    
+\end{frame}
 
-\subsection{Kollaboration}
+\begin{frame}{Time Boxing}
+    Kalender   
+    
+    Pomodoro
+\end{frame}
 
+\begin{frame}{ToDo Listen}
+    Todolisten
+\end{frame}
 
-\begin{frame}{Collaboration}
+\begin{frame}{Rechtschreibung und Gramatik}
+    Gramarly
+    DudenMentor
+    LanguageTool
+\end{frame}
+
+\begin{frame}{Kommunikation}
     \begin{itemize}
         \item WhatsApp
         \item Slack
@@ -235,17 +339,7 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
     \end{itemize}
 \end{frame}
 
-
-\begin{frame}{Literatur Verwaltung}
-    \begin{itemize}
-        \item Zotero
-        \item Citavi
-        \item Mendeley
-        \item ...
-    \end{itemize}    
-\end{frame}
-
-\begin{frame}{Lernt Googlen}
+\begin{frame}{Ein kurzer Google Cheat Sheet}
     \begin{itemize}
         \item \textit{site:} beschränke die Suche auf eine Webseite
         \item \textit{filetype:} sucht nach Dateien vom Typ
@@ -261,10 +355,13 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
 \begin{frame}{Ein Laptop für den schmalen Euro}
     
 \end{frame}
+
 \subsection{Support}
+
 \begin{frame}{Das HRZ}
     
 \end{frame}
+
 \begin{frame}{Online Communities}
     \begin{tabularx}{\linewidth}{ll}
         Reddit & Communities zu methoden, Fächern und Tools mit vielen hilfsbereiten Mitgliedern\\
@@ -273,5 +370,4 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
 
     \end{tabularx}
 \end{frame}
-
 \end{document}
