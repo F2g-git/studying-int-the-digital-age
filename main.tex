@@ -1,5 +1,10 @@
-\documentclass[aspectratio=169]{beamer}
+\documentclass[aspectratio=169,shownotes]{beamer}
 \usepackage{graphicx} 
+\usepackage[]{tikz}
+\usepackage{tabularx}
+\usepackage[normalem]{ulem}
+\usepackage{hyperref}
+
 
 
 \title{Studieren im Digitalen Zeitalter \\\small Tools und Methoden\\ V0.1}
@@ -19,7 +24,7 @@
 \tableofcontents[sectionstyle=show,subsectionstyle=show/hide]
 \end{frame}
 
-\section{Anforderungen von Studenten}
+\subsection{Anforderungen von Studenten}
 \begin{frame}{Übersicht}
 Was sind klassische Arbeiten eines Studenten?
     \begin{itemize}
@@ -27,13 +32,81 @@ Was sind klassische Arbeiten eines Studenten?
         \item Aufgaben bearbeiten
         \item Quellen sichten
         \item Präsentieren
-        \item Kollaborieren        
+        \item Kollaborieren     
+        \item[$\Rightarrow$] Wissen ansammeln und teilen
+        \item[$\Rightarrow$] \sout{Wissen} Daten ansammeln und teilen   
     \end{itemize}
-    $\Rightarrow$ Wissen ansammeln und Teilen
 \end{frame}
-\section{Kriterien für die Auswahl von Tools}
-\begin{frame}{Die FAIR Prinzipien}
-    \begin{itemize}[]
+\note{Welche Art von arbeiten erledigen studenten regelmäßig?
+Am Ende dient alles dem lernen, dem erlangen von Wissen!
+Wissen ist auch nur eine Art von Daten!}
+
+\begin{frame}{Wie hab ich es gemacht?}
+    \begin{tabularx}{\linewidth}{ll}
+        Mitschriften & Papier, Tablet \\
+        Abgaben, Übungen & Papier\\
+        Hausarbeiten, Thesis & \LaTeX\\
+        Präsentationen & Powerpoint, \LaTeX\\
+        Kommunikation & WhatsApp\\
+        Teilen von Unterlagen & Dropbox (später Sciebo)\\                
+    \end{tabularx}
+    \pause
+    \begin{tikzpicture}[overlay, remember picture]
+        \node[anchor=south east] at ([shift={(-2.5cm,4cm)}]current page.south east) {\includegraphics[width=3cm]{graphics/Meine_Mitschriften.jpg}};
+        \pause
+        \node[anchor=south east] at ([shift={(-2cm,3cm)}]current page.south east) {\includegraphics[width=3cm]{graphics/Meine_Mitschriften_Tablet.png}};
+        \pause
+        \node[anchor=south east] at ([shift={(-1.5cm,2cm)}]current page.south east) {\includegraphics[width=3cm]{graphics/Meine-Unterlagen.png}};
+        \pause
+        \node[anchor=south east] at ([shift={(-2.5cm,4cm)}]current page.south east) {\includegraphics[height=4cm]{graphics/overwhelmed_student_2.jpg}};
+    \end{tikzpicture}
+    \pause
+    \vspace{1cm}
+\end{frame}
+\note{
+        \begin{enumerate}
+        \begin{bf}
+        \item Welche Formate eignen sich für meine Notizen?
+        \item Wie organisiere ich meine Notizen so, dass ich nicht im Chaos versinke?
+        \item Wie kann ich mit meinen Komilitonen zusammenarbeiten und unterlagen teilen?
+        \end{bf}
+\end{enumerate}}
+
+
+
+\section{Ausgewählte Tools}
+
+
+\subsection{Mitschriften}
+\begin{frame}
+    \Huge
+    \centering
+    Legt euch ein System für Notizen zu!
+
+\end{frame}
+
+\begin{frame}{Aber welches?} 
+    \begin{block}{}
+        Die einfache Antwort zuerst:
+    \end{block}
+    \begin{tikzpicture}
+        \node[anchor=south west] at (0,2) {\includegraphics[width=3cm]{graphics/Logos/GoogleWorkspace.jpeg}};
+        \node[anchor=south west] at (3,1) {\includegraphics[width=3cm]{graphics/Logos/Office365.png}};
+        \node[anchor=south west] at (6,3) {\includegraphics[width=3cm]{graphics/Logos/Evernote.jpeg}};
+        \node[anchor=south west] at (9,2) {\includegraphics[width=3cm]{graphics/Logos/Notion.jpeg}};
+    \end{tikzpicture}
+    \pause
+    \begin{block}{}
+        \centering\large Es muss zu eurem Stil passen!    
+    \end{block}
+\end{frame}
+\note{Search, Cloud, Collab, Meetings, Local, conversion\\}
+
+\begin{frame}{Die schwere Antwort: Bastelt euer eigenes System}
+\pause
+\begin{block}{Die FAIR Prinzipien}
+    \begin{itemize}
+        \setlength{\itemindent}{-2em}
         \item[] \textbf{F}indable - Auffindbar
         \begin{itemize}
             \item Eure Daten sollten leicht zu durchsuchen sein
@@ -45,65 +118,113 @@ Was sind klassische Arbeiten eines Studenten?
             \begin{itemize}
                 \item Habt immer eine lokale Kopie!
             \end{itemize}
-        \item Macht eure Notizen auch euren Mitstreitern zugänglich
+        \item Macht eure Notizen auch euren Komilitonen zugänglich
     \end{itemize}
         \item[] \textbf{I}nteroperable - Interoperabel
         \begin{itemize}
             \item Verwendet gängige Dateiformate
             \item Stellt eure Quellen offen, nicht nur PDFs
+            \item Sucht euch Tools die ihr verbinden könnt
         \end{itemize}
         \item[] \textbf{R}eusable - Wiederverwendbar
         \begin{itemize}
-            \item ? 
+            \item Ihr solltet eure Unterlagen auch später noch zu rate ziehen können
         \end{itemize}
     \end{itemize}
+\end{block}
 \end{frame}
 
-\section{Ausgewählte Tools}
 
-\subsection{Mitschriften}
-
-\begin{frame}{Legt euch ein System für Notizen zu}
-    \begin{block}
-           
-    \end{block}    
-    \begin{itemize}
-        \item OneNote
-        \item Google Keep \& Google Docs
-        \item Evernote
-        \item \LaTeX - Overleaf
-        \item Markdown Editoren    
-    \end{itemize}
+\begin{frame}[t]{DIY:}
+\begin{columns}[t]   
+    \begin{column}{0.5\textwidth}
+    \Large Notizen:\\
+    \begin{tikzpicture}
+        \def\width{1.5cm}
+        \node[anchor=north west] at (1,0) {\includegraphics[width=\width]{graphics/Logos/Obsidian.png}};
+        \node[anchor=north west] at (2,1.6) {\includegraphics[width=\width]{graphics/Logos/Joplin.png}};
+        \node[anchor=north west] at (2.4,3.4) {\includegraphics[width=\width]{graphics/Logos/OneNote.jpeg}};
+        \node[anchor=north west] at (1.6,5) {\includegraphics[width=\width]{graphics/Logos/Word.jpeg}};
+        \end{tikzpicture}
+\end{column}
+\begin{column}{0.5\textwidth}
+    \Large Cloud:\\
+    \begin{tikzpicture}
+        \node[anchor=south west] at (0,2) {\includegraphics[width=2cm]{graphics/Logos/Sciebo.jpeg}};
+        \node[anchor=south west] at (0,4) {\includegraphics[width=2cm]{graphics/Logos/Dropbox.jpeg}};
+    \end{tikzpicture}
+\end{column}        
+\end{columns}
 \end{frame}
-\begin{frame}{Welche Features sind hilfreich?}
+\note{Ihr werdet immer eine Software brauchen, in der ihr Notizen anlegen könnt.
+Word ist ein klassiker, aber nicht optimal für notizen.
+OneNote ist ebenfalls von Microsoft, ist sehr flexibel, aber verwendet kein gängiges Format.
+Joplin und Obsidian sind beides Tools die auf Markdown basieren.
+Zusätzlich zu Notizen, müsst ihr die natürlich auch irgendwo Speichern, zusammen mit euren anderen Materialien.
+Eine Cloud Lösung ist dafür ideal.
+Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine alternative die von fast allen Universitäten angeboten wird. 
+}
+
+\subsection{Literatur}
+\begin{frame}{Literatur Recherche}
+    \begin{columns}[t]
+        \begin{column}{0.29\textwidth}
+            \vspace*{-0.1\textheight}
+            \begin{figure}[t]
+                \includegraphics[height=0.8\textheight]{graphics/LiteraturChaos.jpeg}         
+            \end{figure}
+        \end{column}        
+        \begin{column}{0.69\textwidth}
+            \begin{itemize}
+                \item Google, \href{https://scholar.google.com/}{Google Scholar}
+                \item \href{https://www.connectedpapers.com/}{Connected Papers}
+                \item \href{https://elicit.com/}{Elicit}
+                \item ChatGPT
+                \item Eure Uni Bibliothek!
+            \end{itemize}           
+        \end{column}        
+    \end{columns}  
     \begin{enumerate}
+        \item Dateien übergriefende Suche
         \item Notizen Verknüpfen
         \item Verknüpfungen zu Quellen herstellen
-        
-    \end{enumerate}
-    
+    \end{enumerate}  
 \end{frame}
+
+\begin{frame}{Dateien Ordentlich ablegen}
+    Eine Frage des Geschmacks
+
+    Ein paar grunregeln:
+    1. Überlegt euch eine Struktur bevor ihr anfangt.
+    2. Schreibt die auf. Gute Angewohnheit: Eine ReadMe in den Top Ordner legen.
+    3. Versucht möglichst wenige Ordner Level zu haben. <= 3 ist eine gute wahl
+    
+
+\end{frame}
+
+
+\begin{frame}{Literatur Verwaltung}
+    \begin{columns}[t]
+        \begin{column}{0.29\textwidth}
+            \vspace*{-0.1\textheight}
+            \begin{figure}[t]
+                \includegraphics[height=0.8\textheight]{graphics/LiteraturChaos.jpeg}         
+            \end{figure}
+        \end{column}        
+        \begin{column}{0.69\textwidth}
+            \begin{itemize}
+                \item Citavi
+                \item Zotero
+                \item Mendeley
+            \end{itemize}           
+        \end{column}        
+    \end{columns}    
+\end{frame}
+
+
 
 \subsection{Kollaboration}
 
-\begin{frame}{Daten Teilen}
-    \begin{itemize}
-        \item Cloud Dienste
-            \begin{itemize}
-                \item Google Drive
-                \item OneDrive
-                \item Dropbox
-                \item Sciebo
-                \begin{itemize}
-                    \item Eine offene Cloud die von deutschen Hochschulen bereitgestellt wird. Studenten bekommen 30 GB kostenlosen Speicherplatz.
-                \end{itemize}
-            \end{itemize}
-        \item GitHub 
-        \begin{itemize}
-            \item Git ist ein Versionskontroll-Tool aus der Softwareentwicklung. Auf GitHub kann man seine Projekte veröffentlichen.
-        \end{itemize}
-    \end{itemize}    
-\end{frame}
 
 \begin{frame}{Collaboration}
     \begin{itemize}
@@ -114,15 +235,6 @@ Was sind klassische Arbeiten eines Studenten?
     \end{itemize}
 \end{frame}
 
-\subsection{Literatur Recherche}
-\begin{frame}{Recherche Tools}
-    \begin{itemize}
-        \item Google, Google Scholar
-        \item Connected Papers
-        \item ChatGPT
-        \item Eure Uni Bibliothek!
-    \end{itemize}    
-\end{frame}
 
 \begin{frame}{Literatur Verwaltung}
     \begin{itemize}
@@ -142,19 +254,8 @@ Was sind klassische Arbeiten eines Studenten?
         \item \textit{AND,OR} Logisches Verknüpfen von Suchbegriffen
     \end{itemize}
 \end{frame}
-\begin{frame}{Einer für Alle?}
-    \begin{itemize}
-        \item Google Workspace
-        \item Office365
-        \item Sciebo?
-    \end{itemize}
-    
-    \begin{itemize}
-        \item[+] bieten Tools für so ziemlich jeden Bedarf.
-        \item[x] sperrt euch in dem jeweiligen Ökosystem ein
-        \item[x] Möglicherweise durch Arbeitgeber gesperrt -> keine Zukunftsaussichten?
-    \end{itemize}  
-\end{frame}
+
+
 \section{Addendum}
 \subsection{Günstige Hardware}
 \begin{frame}{Ein Laptop für den schmalen Euro}
@@ -165,7 +266,12 @@ Was sind klassische Arbeiten eines Studenten?
     
 \end{frame}
 \begin{frame}{Online Communities}
-    
+    \begin{tabularx}{\linewidth}{ll}
+        Reddit & Communities zu methoden, Fächern und Tools mit vielen hilfsbereiten Mitgliedern\\
+        YouTube & Muss ich glaube ich nicht erklären\\
+        Discord Server & Hard zu finden, aber ein guter Interaktionsort für spezifische Themen.\\
+
+    \end{tabularx}
 \end{frame}
 
 \end{document}
