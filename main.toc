@@ -3,6 +3,6 @@
 \beamer@sectionintoc {2}{Ausgewählte Tools}{11}{0}{2}
 \beamer@subsectionintoc {2}{1}{Mitschriften}{11}{0}{2}
 \beamer@subsectionintoc {2}{2}{Literatur}{18}{0}{2}
-\beamer@sectionintoc {3}{Addendum}{27}{0}{3}
-\beamer@subsectionintoc {3}{1}{Günstige Hardware}{27}{0}{3}
-\beamer@subsectionintoc {3}{2}{Support}{28}{0}{3}
+\beamer@sectionintoc {3}{Addendum}{32}{0}{3}
+\beamer@subsectionintoc {3}{1}{Günstige Hardware}{32}{0}{3}
+\beamer@subsectionintoc {3}{2}{Support}{33}{0}{3}

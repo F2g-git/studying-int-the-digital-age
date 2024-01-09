@@ -5,7 +5,8 @@
 \usepackage[normalem]{ulem}
 \usepackage{hyperref}
 \usepackage{forest}
-
+\usepackage{caption}
+\captionsetup{justification=raggedright,singlelinecheck=false,font=tiny}
 
 \title{Studieren im Digitalen Zeitalter \\\small Tools und Methoden\\ V0.1}
 \author{Florian Rössing}
@@ -166,7 +167,7 @@ Wissen ist auch nur eine Art von Daten!}
         \end{enumerate}  
 \end{column}
 \begin{column}{0.5\textwidth}
-    \Large Cloud:\\
+    {\Large Cloud:}\\
     \begin{tikzpicture}
         \node[anchor=south west] at (0,2) {\includegraphics[width=2cm]{graphics/Logos/Sciebo.jpeg}};
         \node[anchor=south west] at (0,4) {\includegraphics[width=2cm]{graphics/Logos/Dropbox.jpeg}};
@@ -194,10 +195,15 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
         \vspace{-8cm}
         \begin{block}{Ein paar Grundregeln}
             \begin{itemize}
-                \item Überlegt euch eine Struktur. 
-                \item Schreibt die auf. Gute Angewohnheit: Eine ReadMe in den Top Ordner legen.
+                \item Überlegt euch eine Struktur.                 
                 \item Versucht möglichst wenige Ordner Level zu haben.
+                \item Schreibt eure Struktur auf. Gute Angewohnheit: Eine ReadMe in den Top Ordner legen.
             \end{itemize}     
+
+            \begin{itemize}[]
+                \item \href{https://www.youtube.com/watch?v=WtKeeDYA_2I&t=317s}{YouTube}
+                \item \href{https://ocw.mit.edu/courses/res-str-002-data-management-spring-2016/497580bd31c004cc758a2afb0a115aa4_MITRES_STR_002S16_File.pdf}{MIT Open Courseware}
+            \end{itemize}
         \end{block}        
         \vfill   
     \end{column}
@@ -296,32 +302,96 @@ Dropbox ist eine der älteren und verbreiteten Lösungen. Sciebo ist eine altern
         \begin{column}{0.69\textwidth}
             \begin{itemize}
                 \item Citavi
-                \item Zotero
                 \item Mendeley
+                \item Zotero
+                \pause
+                \begin{itemize}
+                    \item Open Source
+                    \item Kostenlos
+                    \item Kompatibel mit MS Office, Google Docs and LaTeX
+                    \item Features für PDF Annotation, Markieren und Notizen
+                \end{itemize}
             \end{itemize}           
         \end{column}        
     \end{columns}    
 \end{frame}
 
-\begin{frame}{Zettelkasten}
-    Eine Methode gelerntes zu Dokumentieren und Organisieren
-    - Brecht wissen herunter auf atomare kleine zettelchen
-    - linkt nahe gelegenes wissen 
+\begin{frame}{Gute Notizen sind nur die halbe Miete. }
+    \begin{columns}
+        \begin{column}{0.4\textwidth}
+            \includegraphics[width=\textwidth]{graphics/Zettelkasten.png}
+        \end{column}
+        \begin{column}{0.6\textwidth}   
+            \begin{block}{Der Zettelkasten}
+                Eine gute methode daraus anhaltendes Wissen zu generieren.
+                \begin{itemize}
+                    \item Atomare Notizen
+                    \item Verlinkte Notizen
+                    \item Frage/Antwort Zettel
+                \end{itemize} 
+            \end{block}                     
+        \end{column}        
+    \end{columns}    
 \end{frame}
 
-\begin{frame}{Lernkarten mit Anki}
-    Einfaches Erstellen von Lernkarten
-    
+\begin{frame}{Gute Notizen sind nur die halbe Miete}
+    \begin{columns}
+        \begin{column}{0.4\textwidth}
+            \includegraphics[width=\textwidth]{graphics/Zettelkasten.png}
+        \end{column}
+        \begin{column}{0.6\textwidth}   
+            \begin{block}{Karteikarten mit Anki}
+                \includegraphics[width=\textwidth]{graphics/Logos/anki.png}
+                Einfaches Erstellen von Lernkarten
+                Clients für PC/Mac und Android/iOS
+                
+            \end{block}                     
+        \end{column}        
+    \end{columns}    
 \end{frame}
 
 \begin{frame}{Time Boxing}
-    Kalender   
-    
-    Pomodoro
+    \begin{tikzpicture}[overlay, remember picture]
+        \node[anchor=south west] at ([shift={(0.5cm,1cm)}]current page.south west) {\includegraphics[width=0.8\textwidth]{graphics/Kalender/Kalender1.PNG}};
+        \pause
+        \node[anchor=south west] at ([shift={(0.5cm,1cm)}]current page.south west) {\includegraphics[width=0.8\textwidth]{graphics/Kalender/Kalender2.PNG}};
+        \pause
+        \node[anchor=south west] at ([shift={(0.5cm,1.1cm)}]current page.south west) {\includegraphics[width=0.8\textwidth]{graphics/Kalender/Kalender3.PNG}};
+        \pause
+        \node[anchor=south west] at ([shift={(0.5cm,1.8cm)}]current page.south west) {\includegraphics[width=0.8\textwidth]{graphics/Kalender/Kalender4.PNG}};
+        \pause
+        \node[anchor=south west] at ([shift={(0.5cm,1.2cm)}]current page.south west) {\includegraphics[width=0.8\textwidth]{graphics/Kalender/Kalender5.PNG}};
+    \end{tikzpicture}    
 \end{frame}
 
-\begin{frame}{ToDo Listen}
-    Todolisten
+\note{
+Kalender       
+Pomodoro}
+
+\begin{frame}{Andere Ansätze:}
+    \begin{columns}[t]
+        \begin{column}{0.3\textwidth}
+            \begin{figure}
+                \begin{flushleft}
+                    \includegraphics[width=\textwidth]{graphics/diary-614149_960_720.jpg}
+                    \caption*{\href{https://pixabay.com/de/photos/tagebuch-stift-notizbuch-januar-614149/}{stevepb on pixabay}}    
+                \end{flushleft}                
+            \end{figure}
+            
+        \end{column}
+        \begin{column}{0.7\textwidth}
+            \begin{itemize}
+                \item ToDo Listen
+                \begin{itemize}
+                    \item \href{https://to-do.office.com/tasks/}{Microsoft ToDo}
+                    \item \href{https://todoist.com/de}{todoist}
+                    \item \dots
+                \end{itemize}
+                \item Pomodoro Technik
+                 
+            \end{itemize}
+        \end{column}
+    \end{columns}
 \end{frame}
 
 \begin{frame}{Rechtschreibung und Gramatik}
