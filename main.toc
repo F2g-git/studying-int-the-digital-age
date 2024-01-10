@@ -1,6 +1,0 @@
-\beamer@sectionintoc {1}{Einführung}{2}{0}{1}
-\beamer@subsectionintoc {1}{1}{Anforderungen von Studenten}{4}{0}{1}
-\beamer@sectionintoc {2}{Ausgewählte Tools}{17}{0}{2}
-\beamer@subsectionintoc {2}{1}{Mitschriften}{17}{0}{2}
-\beamer@subsectionintoc {2}{2}{Literatur}{23}{0}{2}
-\beamer@sectionintoc {3}{Addendum}{38}{0}{3}
