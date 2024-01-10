@@ -1,8 +1,6 @@
 \beamer@sectionintoc {1}{Einführung}{2}{0}{1}
 \beamer@subsectionintoc {1}{1}{Anforderungen von Studenten}{4}{0}{1}
-\beamer@sectionintoc {2}{Ausgewählte Tools}{11}{0}{2}
-\beamer@subsectionintoc {2}{1}{Mitschriften}{11}{0}{2}
-\beamer@subsectionintoc {2}{2}{Literatur}{18}{0}{2}
-\beamer@sectionintoc {3}{Addendum}{32}{0}{3}
-\beamer@subsectionintoc {3}{1}{Günstige Hardware}{32}{0}{3}
-\beamer@subsectionintoc {3}{2}{Support}{33}{0}{3}
+\beamer@sectionintoc {2}{Ausgewählte Tools}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Mitschriften}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Literatur}{23}{0}{2}
+\beamer@sectionintoc {3}{Addendum}{38}{0}{3}

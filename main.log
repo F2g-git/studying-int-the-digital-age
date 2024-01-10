@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.16)  9 JAN 2024 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.6.16)  10 JAN 2024 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -583,17 +583,36 @@ Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
 \TX@delta=\dimen303
 \TX@cols=\count335
 \TX@ftn=\toks48
+) (d:/texlive/2021/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen304
+\lightrulewidth=\dimen305
+\cmidrulewidth=\dimen306
+\belowrulesep=\dimen307
+\belowbottomsep=\dimen308
+\aboverulesep=\dimen309
+\abovetopsep=\dimen310
+\cmidrulesep=\dimen311
+\cmidrulekern=\dimen312
+\defaultaddspace=\dimen313
+\@cmidla=\count336
+\@cmidlb=\count337
+\@aboverulesep=\dimen314
+\@belowrulesep=\dimen315
+\@thisruleclass=\count338
+\@lastruleclass=\count339
+\@thisrulewidth=\dimen316
 ) (d:/texlive/2021/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box82
 \UL@hyphenbox=\box83
 \UL@skip=\skip66
 \UL@hook=\toks49
-\UL@height=\dimen304
-\UL@pe=\count336
-\UL@pixel=\dimen305
+\UL@height=\dimen317
+\UL@pe=\count340
+\UL@pixel=\dimen318
 \ULC@box=\box84
 Package: ulem 2019/11/18
-\ULdepth=\dimen306
+\ULdepth=\dimen319
 ) (d:/texlive/2021/texmf-dist/tex/latex/forest/forest.sty
 Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
  (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
@@ -643,7 +662,7 @@ File: tikzlibraryfit.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (d:/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2021/05/15 v3.1.9a (3.1.9a)
 ) (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (d:/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count337
+\pgf@intersect@solutions=\count341
 ) (d:/texlive/2021/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks50
@@ -658,102 +677,102 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: expl3 2021-06-01 L3 programming layer (loader) 
  (d:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count338
+\l__color_backend_stack_int=\count342
 \l__pdf_internal_box=\box105
 ))
 Package: xparse 2021-06-01 L3 Experimental document command parser
 ) (d:/texlive/2021/texmf-dist/tex/latex/inlinedef/inlinedef.sty
 Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 \ID@toks=\toks52
-\ID@count=\count339
+\ID@count=\count343
 )
 \ID@usercommands=\toks53
-\safeloop@depth=\count340
-\safeRKloop@depth=\count341
-\forest@temp@dimen=\dimen307
-\forest@temp@count=\count342
-\forest@n=\count343
-\forest@temp@global@count=\count344
+\safeloop@depth=\count344
+\safeRKloop@depth=\count345
+\forest@temp@dimen=\dimen320
+\forest@temp@count=\count346
+\forest@n=\count347
+\forest@temp@global@count=\count348
 \forest@temp@toks=\toks54
-\forest@temparray@M=\count345
-\forest@temparray@N=\count346
-\forest@global@temparray@M=\count347
-\forest@global@temparray@N=\count348
-\forest@isnum@count=\count349
-\forest@isdim@nonintpart=\count350
-\forest@isdim@dimen=\dimen308
-\forest@sort@m=\count351
-\forest@sort@k=\count352
-\forest@sort@p=\count353
+\forest@temparray@M=\count349
+\forest@temparray@N=\count350
+\forest@global@temparray@M=\count351
+\forest@global@temparray@N=\count352
+\forest@isnum@count=\count353
+\forest@isdim@nonintpart=\count354
+\forest@isdim@dimen=\dimen321
+\forest@sort@m=\count355
+\forest@sort@k=\count356
+\forest@sort@p=\count357
 \bracket@content=\toks55
 \bracket@afterthought=\toks56
-\forest@node@maxid=\count354
-\forest@process@left@M=\count355
-\forest@process@left@N=\count356
-\forest@process@right@M=\count357
-\forest@process@right@N=\count358
-\forest@process@saved@M=\count359
-\forest@process@saved@N=\count360
-\forest@process@result@M=\count361
-\forest@process@result@N=\count362
-\forest@process@n=\count363
+\forest@node@maxid=\count358
+\forest@process@left@M=\count359
+\forest@process@left@N=\count360
+\forest@process@right@M=\count361
+\forest@process@right@N=\count362
+\forest@process@saved@M=\count363
+\forest@process@saved@N=\count364
+\forest@process@result@M=\count365
+\forest@process@result@N=\count366
+\forest@process@n=\count367
 \forest@nodewalk@branch@toks=\toks57
 \forest@nodewalk@shortsteps@resolution=\toks58
 \forest@do@dynamics=\toks59
 \forest@box=\box106
-\forest@xg=\dimen309
-\forest@yg=\dimen310
-\forest@xs=\dimen311
-\forest@ys=\dimen312
+\forest@xg=\dimen322
+\forest@yg=\dimen323
+\forest@xs=\dimen324
+\forest@ys=\dimen325
 \forest@pi@toks=\toks60
 \forest@segment@toks=\toks61
 \forest@PIi@toks=\toks62
 \forest@PIii@toks=\toks63
 \forest@copy@in=\read3
 \forest@copy@out=\write5
-\forest@externalize@max@outer@n=\count364
-\forest@externalize@inner@n=\count365
+\forest@externalize@max@outer@n=\count368
+\forest@externalize@inner@n=\count369
 ) (d:/texlive/2021/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
  (d:/texlive/2021/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen313
-\captionmargin@=\dimen314
-\captionwidth=\dimen315
-\caption@tempdima=\dimen316
-\caption@indent=\dimen317
-\caption@parindent=\dimen318
-\caption@hangindent=\dimen319
+\captionmargin=\dimen326
+\captionmargin@=\dimen327
+\captionwidth=\dimen328
+\caption@tempdima=\dimen329
+\caption@indent=\dimen330
+\caption@parindent=\dimen331
+\caption@hangindent=\dimen332
 Package caption Info: beamer document class detected.
  (d:/texlive/2021/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count366
-\c@continuedfloat=\count367
+\c@caption@flags=\count370
+\c@continuedfloat=\count371
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -791,16 +810,16 @@ LaTeX Font Info:    ... okay on input line 26.
 
 (d:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count368
-\scratchdimen=\dimen320
+\scratchcounter=\count372
+\scratchdimen=\dimen333
 \scratchbox=\box107
-\nofMPsegments=\count369
-\nofMParguments=\count370
+\nofMPsegments=\count373
+\nofMParguments=\count374
 \everyMPshowfont=\toks64
-\MPscratchCnt=\count371
-\MPscratchDim=\dimen321
-\MPnumerator=\count372
-\makeMPintoPDFobject=\count373
+\MPscratchCnt=\count375
+\MPscratchDim=\dimen334
+\MPnumerator=\count376
+\makeMPintoPDFobject=\count377
 \everyMPtoPDFconversion=\toks65
 ) (d:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -808,7 +827,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (d:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 26.
+Package hyperref Info: Link coloring OFF on input line 28.
  (d:/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (d:/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
@@ -816,64 +835,64 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (d:/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count374
+\c@section@level=\count378
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 26.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 26.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 26.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 26.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 26.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 28.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 26.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 26.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 28.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 26.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 26.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 26.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 26.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 28.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 26.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 28.
  (d:/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (d:/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -891,450 +910,445 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./main.nav) [1
 
-{d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+{d:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd) (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd) (d:/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd)
+Underfull \hbox (badness 10000) in alignment at lines 49--49
+[][][] 
+ []
+
+[2
 
 ] (./main.toc) [3
 
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 51.
- (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 51.
- (d:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 51.
- (d:/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [4
+] [4
+
+] [5
+
+] [6
+
+] [7
+
+] [8
+
+] [9
+
+] [10
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
-<graphics/Meine_Mitschriften.jpg, id=159, 602.25pt x 903.375pt>
+<graphics/Meine_Mitschriften.jpg, id=303, 602.25pt x 903.375pt>
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
-<graphics/Meine_Mitschriften_Tablet.png, id=160, 685.8122pt x 824.32968pt>
+<graphics/Meine_Mitschriften_Tablet.png, id=304, 685.8122pt x 824.32968pt>
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
-<graphics/Meine-Unterlagen.png, id=162, 197.98969pt x 365.86688pt>
+<graphics/Meine-Unterlagen.png, id=306, 197.98969pt x 365.86688pt>
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
-<graphics/overwhelmed_student_2.jpg, id=163, 1129.21875pt x 1129.21875pt>
+<graphics/overwhelmed_student_2.jpg, id=307, 1129.21875pt x 1129.21875pt>
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[5
+[11
 
  <./graphics/Meine_Mitschriften.jpg> <./graphics/Meine_Mitschriften_Tablet.png> <./graphics/Meine-Unterlagen.png> <./graphics/overwhelmed_student_2.jpg>]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[6
+[12
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[7
+[13
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[8
+[14
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[9
+[15
 
 ]
-Underfull \hbox (badness 10000) in alignment at lines 77--77
+Underfull \hbox (badness 10000) in alignment at lines 93--93
 [][] 
  []
 
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
-Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
-Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
-Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 77.
+Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 93.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
-Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 77.
+Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 93.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
-[10
+[16
 
-] [11
+] [17
 
 ]
-<graphics/Logos/GoogleWorkspace.jpeg, id=346, 475.7775pt x 154.5775pt>
+<graphics/F.pdf, id=491, 28.83574pt x 51.60078pt>
+File: graphics/F.pdf Graphic file (type pdf)
+<use graphics/F.pdf>
+Package pdftex.def Info: graphics/F.pdf  used on input line 157.
+(pdftex.def)             Requested size: 25.44151pt x 45.52458pt.
+<graphics/A.pdf, id=492, 46.10828pt x 51.8176pt>
+File: graphics/A.pdf Graphic file (type pdf)
+<use graphics/A.pdf>
+Package pdftex.def Info: graphics/A.pdf  used on input line 157.
+(pdftex.def)             Requested size: 40.50926pt x 45.52458pt.
+<graphics/I.pdf, id=493, 18.64566pt x 51.60077pt>
+File: graphics/I.pdf Graphic file (type pdf)
+<use graphics/I.pdf>
+Package pdftex.def Info: graphics/I.pdf  used on input line 157.
+(pdftex.def)             Requested size: 16.45088pt x 45.52458pt.
+<graphics/R.pdf, id=494, 36.8577pt x 51.60078pt>
+File: graphics/R.pdf Graphic file (type pdf)
+<use graphics/R.pdf>
+Package pdftex.def Info: graphics/R.pdf  used on input line 157.
+(pdftex.def)             Requested size: 32.51921pt x 45.52458pt.
+ [18
+
+ <./graphics/F.pdf> <./graphics/A.pdf
+
+pdfTeX warning: pdflatex.exe (file ./graphics/A.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./graphics/I.pdf
+
+pdfTeX warning: pdflatex.exe (file ./graphics/I.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+> <./graphics/R.pdf
+
+pdfTeX warning: pdflatex.exe (file ./graphics/R.pdf): PDF inclusion: multiple pdfs with page group included in a single page
+>]
+<graphics/Logos/GoogleWorkspace.jpeg, id=551, 475.7775pt x 154.5775pt>
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
-<graphics/Logos/Office365.png, id=347, 3854.4pt x 2168.1pt>
+<graphics/Logos/Office365.png, id=552, 3854.4pt x 2168.1pt>
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
-<graphics/Logos/Evernote.jpeg, id=348, 475.7775pt x 266.9975pt>
+<graphics/Logos/Evernote.jpeg, id=553, 475.7775pt x 266.9975pt>
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
-<graphics/Logos/Notion.jpeg, id=349, 475.7775pt x 167.62625pt>
+<graphics/Logos/Notion.jpeg, id=554, 475.7775pt x 167.62625pt>
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
- [12
+ [19
 
  <./graphics/Logos/GoogleWorkspace.jpeg> <./graphics/Logos/Office365.png> <./graphics/Logos/Evernote.jpeg> <./graphics/Logos/Notion.jpeg>]
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 114.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 170.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
- [13
-
-] [14
-
-] [15
+ [20
 
 ]
-<graphics/Logos/Obsidian.png, id=455, 475.7775pt x 476.53032pt>
-File: graphics/Logos/Obsidian.png Graphic file (type png)
-<use graphics/Logos/Obsidian.png>
-Package pdftex.def Info: graphics/Logos/Obsidian.png  used on input line 182.
-(pdftex.def)             Requested size: 28.45274pt x 28.49605pt.
-<graphics/Logos/Joplin.png, id=456, 602.25pt x 602.25pt>
-File: graphics/Logos/Joplin.png Graphic file (type png)
-<use graphics/Logos/Joplin.png>
-Package pdftex.def Info: graphics/Logos/Joplin.png  used on input line 182.
-(pdftex.def)             Requested size: 28.45274pt x 28.45094pt.
-<graphics/Logos/OneNote.jpeg, id=457, 372.39125pt x 325.215pt>
-File: graphics/Logos/OneNote.jpeg Graphic file (type jpg)
-<use graphics/Logos/OneNote.jpeg>
-Package pdftex.def Info: graphics/Logos/OneNote.jpeg  used on input line 182.
-(pdftex.def)             Requested size: 28.45274pt x 24.8466pt.
-<graphics/Logos/Word.jpeg, id=458, 475.7775pt x 475.7775pt>
-File: graphics/Logos/Word.jpeg Graphic file (type jpg)
-<use graphics/Logos/Word.jpeg>
-Package pdftex.def Info: graphics/Logos/Word.jpeg  used on input line 182.
-(pdftex.def)             Requested size: 28.45274pt x 28.45103pt.
-<graphics/Logos/Sciebo.jpeg, id=459, 401.5pt x 401.5pt>
-File: graphics/Logos/Sciebo.jpeg Graphic file (type jpg)
-<use graphics/Logos/Sciebo.jpeg>
-Package pdftex.def Info: graphics/Logos/Sciebo.jpeg  used on input line 182.
-(pdftex.def)             Requested size: 56.9055pt x 56.90189pt.
-<graphics/Logos/Dropbox.jpeg, id=460, 475.7775pt x 475.7775pt>
-File: graphics/Logos/Dropbox.jpeg Graphic file (type jpg)
-<use graphics/Logos/Dropbox.jpeg>
-Package pdftex.def Info: graphics/Logos/Dropbox.jpeg  used on input line 182.
-(pdftex.def)             Requested size: 56.9055pt x 56.90207pt.
- [16
+<graphics/tools-864983_1280.jpg, id=608, 1284.8pt x 856.19875pt>
+File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
+<use graphics/tools-864983_1280.jpg>
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 207.
+(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
- <./graphics/Logos/Obsidian.png> <./graphics/Logos/Joplin.png> <./graphics/Logos/OneNote.jpeg> <./graphics/Logos/Word.jpeg> <./graphics/Logos/Sciebo.jpeg> <./graphics/Logos/Dropbox.jpeg>] [17
-
-]
-<graphics/LiteraturChaos.jpeg, id=515, 205.76875pt x 316.18124pt>
-File: graphics/LiteraturChaos.jpeg Graphic file (type jpg)
-<use graphics/LiteraturChaos.jpeg>
-Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 291.
-(pdftex.def)             Requested size: 131.24255pt x 201.6606pt.
-
-Overfull \hbox (15.72705pt too wide) in paragraph at lines 291--291
- [] 
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 207--207
+[]  
  []
 
-[18
 
- <./graphics/LiteraturChaos.jpeg>]
-File: graphics/LiteraturChaos.jpeg Graphic file (type jpg)
-<use graphics/LiteraturChaos.jpeg>
-Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 317.
-(pdftex.def)             Requested size: 131.24255pt x 201.6606pt.
-
-Overfull \hbox (15.72705pt too wide) in paragraph at lines 317--317
- [] 
+Overfull \vbox (3.4997pt too high) detected at line 207
  []
 
-[19
+[21
 
-]
-File: graphics/LiteraturChaos.jpeg Graphic file (type jpg)
-<use graphics/LiteraturChaos.jpeg>
-Package pdftex.def Info: graphics/LiteraturChaos.jpeg  used on input line 317.
-(pdftex.def)             Requested size: 131.24255pt x 201.6606pt.
+ <./graphics/tools-864983_1280.jpg>]
+File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
+<use graphics/tools-864983_1280.jpg>
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 237.
+(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (15.72705pt too wide) in paragraph at lines 317--317
- [] 
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 237--237
+[]  
  []
 
-[20
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 237.
+(d:/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \vbox (3.4997pt too high) detected at line 237
+ []
+
+[22
 
 ]
-<graphics/Zettelkasten.png, id=596, 870.25125pt x 1058.45438pt>
+<graphics/Flohmarkt.jpg, id=664, 1284.8pt x 785.93625pt>
+File: graphics/Flohmarkt.jpg Graphic file (type jpg)
+<use graphics/Flohmarkt.jpg>
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 280.
+(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+ [23
+
+ <./graphics/Flohmarkt.jpg>]
+File: graphics/Flohmarkt.jpg Graphic file (type jpg)
+<use graphics/Flohmarkt.jpg>
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 309.
+(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+ [24
+
+]
+File: graphics/Flohmarkt.jpg Graphic file (type jpg)
+<use graphics/Flohmarkt.jpg>
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 309.
+(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+ [25
+
+]
+File: graphics/Flohmarkt.jpg Graphic file (type jpg)
+<use graphics/Flohmarkt.jpg>
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 341.
+(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+ [26
+
+]
+<graphics/Zettelkasten.png, id=782, 870.25125pt x 1058.45438pt>
 File: graphics/Zettelkasten.png Graphic file (type png)
 <use graphics/Zettelkasten.png>
-Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 335.
+Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 360.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
- [21
+ [27
 
  <./graphics/Zettelkasten.png>]
 File: graphics/Zettelkasten.png Graphic file (type png)
 <use graphics/Zettelkasten.png>
-Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 351.
+Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 379.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
-<graphics/Logos/anki.png, id=623, 3.9318pt x 0.93614pt>
+<graphics/Logos/anki.png, id=810, 3.9318pt x 0.93614pt>
 File: graphics/Logos/anki.png Graphic file (type png)
 <use graphics/Logos/anki.png>
-Package pdftex.def Info: graphics/Logos/anki.png  used on input line 351.
+Package pdftex.def Info: graphics/Logos/anki.png  used on input line 379.
 (pdftex.def)             Requested size: 239.00558pt x 57.0491pt.
- [22
-
- <./graphics/Logos/anki.png>]
-<graphics/Kalender/Kalender1.PNG, id=650, 1636.61438pt x 915.42pt>
-File: graphics/Kalender/Kalender1.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender1.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender1.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 178.2338pt.
-<graphics/Kalender/Kalender2.PNG, id=651, 1639.62563pt x 980.16188pt>
-File: graphics/Kalender/Kalender2.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender2.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender2.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.49516pt.
-<graphics/Kalender/Kalender3.PNG, id=652, 1635.86156pt x 975.645pt>
-File: graphics/Kalender/Kalender3.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender3.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender3.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.04903pt.
-<graphics/Kalender/Kalender4.PNG, id=653, 1637.36719pt x 973.38657pt>
-File: graphics/Kalender/Kalender4.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender4.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender4.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 189.44572pt.
-<graphics/Kalender/Kalender5.PNG, id=654, 1653.17625pt x 950.04938pt>
-File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender5.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
- [23
-
- <./graphics/Kalender/Kalender1.PNG> <./graphics/Kalender/Kalender2.PNG> <./graphics/Kalender/Kalender3.PNG> <./graphics/Kalender/Kalender4.PNG> <./graphics/Kalender/Kalender5.PNG>]
-File: graphics/Kalender/Kalender1.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender1.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender1.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 178.2338pt.
-File: graphics/Kalender/Kalender2.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender2.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender2.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.49516pt.
-File: graphics/Kalender/Kalender3.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender3.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender3.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.04903pt.
-File: graphics/Kalender/Kalender4.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender4.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender4.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 189.44572pt.
-File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender5.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
- [24
-
-]
-File: graphics/Kalender/Kalender1.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender1.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender1.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 178.2338pt.
-File: graphics/Kalender/Kalender2.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender2.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender2.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.49516pt.
-File: graphics/Kalender/Kalender3.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender3.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender3.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.04903pt.
-File: graphics/Kalender/Kalender4.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender4.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender4.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 189.44572pt.
-File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender5.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
- [25
-
-]
-File: graphics/Kalender/Kalender1.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender1.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender1.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 178.2338pt.
-File: graphics/Kalender/Kalender2.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender2.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender2.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.49516pt.
-File: graphics/Kalender/Kalender3.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender3.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender3.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.04903pt.
-File: graphics/Kalender/Kalender4.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender4.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender4.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 189.44572pt.
-File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender5.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
- [26
-
-]
-File: graphics/Kalender/Kalender1.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender1.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender1.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 178.2338pt.
-File: graphics/Kalender/Kalender2.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender2.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender2.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.49516pt.
-File: graphics/Kalender/Kalender3.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender3.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender3.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 190.04903pt.
-File: graphics/Kalender/Kalender4.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender4.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender4.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 189.44572pt.
-File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
-<use graphics/Kalender/Kalender5.PNG>
-Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 365.
-(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
- [27
-
-]
-<graphics/diary-614149_960_720.jpg, id=787, 358.33875pt x 542.025pt>
-File: graphics/diary-614149_960_720.jpg Graphic file (type jpg)
-<use graphics/diary-614149_960_720.jpg>
-Package pdftex.def Info: graphics/diary-614149_960_720.jpg  used on input line 395.
-(pdftex.def)             Requested size: 119.50279pt x 180.7545pt.
  [28
 
- <./graphics/diary-614149_960_720.jpg>] [29
+ <./graphics/Logos/anki.png>]
+File: graphics/Zettelkasten.png Graphic file (type png)
+<use graphics/Zettelkasten.png>
+Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 405.
+(pdftex.def)             Requested size: 159.333pt x 193.79216pt.
+ [29
 
 ] [30
 
-] [31
-
-] [32
-
-] [33
-
 ]
-Overfull \hbox (68.11807pt too wide) in alignment at lines 442--442
-[][] 
+<graphics/Kalender/Kalender5.PNG, id=892, 1653.17625pt x 950.04938pt>
+File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
+<use graphics/Kalender/Kalender5.PNG>
+Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 487.
+(pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
+ [31
+
+ <./graphics/Kalender/Kalender5.PNG>]
+<graphics/MyDailyPlan.png, id=921, 1147.28625pt x 837.1275pt>
+File: graphics/MyDailyPlan.png Graphic file (type png)
+<use graphics/MyDailyPlan.png>
+Package pdftex.def Info: graphics/MyDailyPlan.png  used on input line 493.
+(pdftex.def)             Requested size: 207.82986pt x 201.6606pt.
+ [32
+
+ <./graphics/MyDailyPlan.png>]
+<graphics/diary-614149_960_720.jpg, id=950, 358.33875pt x 542.025pt>
+File: graphics/diary-614149_960_720.jpg Graphic file (type jpg)
+<use graphics/diary-614149_960_720.jpg>
+Package pdftex.def Info: graphics/diary-614149_960_720.jpg  used on input line 525.
+(pdftex.def)             Requested size: 119.50279pt x 180.7545pt.
+ [33
+
+ <./graphics/diary-614149_960_720.jpg>]
+<graphics/correcting-1870721_1280.jpg, id=980, 1284.8pt x 856.19875pt>
+File: graphics/correcting-1870721_1280.jpg Graphic file (type jpg)
+<use graphics/correcting-1870721_1280.jpg>
+Package pdftex.def Info: graphics/correcting-1870721_1280.jpg  used on input line 551.
+(pdftex.def)             Requested size: 178.78972pt x 151.24641pt.
+
+Overfull \hbox (19.45673pt too wide) in paragraph at lines 551--551
+[]  
  []
 
 [34
+
+ <./graphics/correcting-1870721_1280.jpg>]
+<graphics/call-2946023_1280.jpg, id=1009, 1284.8pt x 857.2025pt>
+File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
+<use graphics/call-2946023_1280.jpg>
+Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 578.
+(pdftex.def)             Requested size: 161.68147pt x 201.6606pt.
+
+Overfull \hbox (2.34848pt too wide) in paragraph at lines 578--578
+[]  
+ []
+
+
+Overfull \vbox (8.75926pt too high) detected at line 578
+ []
+
+[35
+
+ <./graphics/call-2946023_1280.jpg>]
+File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
+<use graphics/call-2946023_1280.jpg>
+Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 606.
+(pdftex.def)             Requested size: 161.68147pt x 201.6606pt.
+
+Overfull \hbox (2.34848pt too wide) in paragraph at lines 606--606
+[]  
+ []
+
+
+Overfull \vbox (8.75926pt too high) detected at line 606
+ []
+
+[36
+
+]
+<graphics/winner-1548239_1280.jpg, id=1066, 1284.8pt x 856.19875pt>
+File: graphics/winner-1548239_1280.jpg Graphic file (type jpg)
+<use graphics/winner-1548239_1280.jpg>
+Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 645.
+(pdftex.def)             Requested size: 161.87024pt x 201.6606pt.
+
+Overfull \hbox (2.53725pt too wide) in paragraph at lines 645--645
+[]  
+ []
+
+
+Overfull \vbox (8.75926pt too high) detected at line 645
+ []
+
+[37
+
+ <./graphics/winner-1548239_1280.jpg>]
+<graphics/QRCode.png, id=1096, 1018.80624pt x 1018.80624pt>
+File: graphics/QRCode.png Graphic file (type png)
+<use graphics/QRCode.png>
+Package pdftex.def Info: graphics/QRCode.png  used on input line 669.
+(pdftex.def)             Requested size: 159.333pt x 159.32799pt.
+ [38
+
+ <./graphics/QRCode.png>]
+<graphics/ThinkPad.jpg, id=1125, 835.12pt x 469.755pt>
+File: graphics/ThinkPad.jpg Graphic file (type jpg)
+<use graphics/ThinkPad.jpg>
+Package pdftex.def Info: graphics/ThinkPad.jpg  used on input line 697.
+(pdftex.def)             Requested size: 239.00558pt x 134.44066pt.
+ [39
+
+ <./graphics/ThinkPad.jpg>] [40
 
 ]
 \tf@nav=\write7
@@ -1348,21 +1362,21 @@ Overfull \hbox (68.11807pt too wide) in alignment at lines 442--442
 
  (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 52DC0072FFA483792A4424A2BBEFDA22;974.
+(rerunfilecheck)             Checksum: A13EA94105989F5E10B9C7653DAA3D02;732.
  ) 
 Here is how much of TeX's memory you used:
- 37303 strings out of 478512
- 812287 string characters out of 5853626
- 1123172 words of memory out of 5000000
- 54561 multiletter control sequences out of 15000+600000
- 417632 words of font info for 79 fonts, out of 8000000 for 9000
+ 37394 strings out of 478512
+ 813562 string characters out of 5853626
+ 1123908 words of memory out of 5000000
+ 54632 multiletter control sequences out of 15000+600000
+ 418318 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,14n,128p,1652b,2969s stack positions out of 5000i,500n,10000p,200000b,80000s
-<d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (34 pages, 3194604 bytes).
+{d:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><d:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
+Output written on main.pdf (40 pages, 4258203 bytes).
 PDF statistics:
- 1029 PDF objects out of 1200 (max. 8388607)
- 922 compressed objects within 10 object streams
- 77 named destinations out of 1000 (max. 500000)
- 222 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1256 PDF objects out of 1440 (max. 8388607)
+ 1119 compressed objects within 12 object streams
+ 87 named destinations out of 1000 (max. 500000)
+ 289 words of extra memory for PDF output out of 10000 (max. 10000000)
 
