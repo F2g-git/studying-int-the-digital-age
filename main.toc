@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Einführung}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Anforderungen von Studenten}{4}{0}{1}
+\beamer@sectionintoc {2}{Die Elementaren Tools}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Literatur}{19}{0}{2}
+\beamer@subsectionintoc {2}{2}{Ordnung}{34}{0}{2}
+\beamer@subsectionintoc {2}{3}{Zeitmanagement}{35}{0}{2}
+\beamer@sectionintoc {3}{Addendum}{41}{0}{3}
