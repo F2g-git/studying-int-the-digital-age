@@ -1,10 +1,7 @@
 \beamer@sectionintoc {1}{Einführung}{2}{0}{1}
-\beamer@sectionintoc {2}{Anforderungen von Studenten}{4}{0}{2}
-\beamer@sectionintoc {3}{Kriterien für die Auswahl von Tools}{5}{0}{3}
-\beamer@sectionintoc {4}{Ausgewählte Tools}{6}{0}{4}
-\beamer@subsectionintoc {4}{1}{Mitschriften}{6}{0}{4}
-\beamer@subsectionintoc {4}{2}{Kollaboration}{8}{0}{4}
-\beamer@subsectionintoc {4}{3}{Literatur Recherche}{10}{0}{4}
-\beamer@sectionintoc {5}{Addendum}{14}{0}{5}
-\beamer@subsectionintoc {5}{1}{Günstige Hardware}{14}{0}{5}
-\beamer@subsectionintoc {5}{2}{Support}{15}{0}{5}
+\beamer@subsectionintoc {1}{1}{Anforderungen von Studenten}{4}{0}{1}
+\beamer@sectionintoc {2}{Die Elementaren Tools}{13}{0}{2}
+\beamer@subsectionintoc {2}{1}{Literatur}{19}{0}{2}
+\beamer@subsectionintoc {2}{2}{Ordnung}{34}{0}{2}
+\beamer@subsectionintoc {2}{3}{Zeitmanagement}{35}{0}{2}
+\beamer@sectionintoc {3}{Addendum}{41}{0}{3}

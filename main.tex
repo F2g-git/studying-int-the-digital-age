@@ -1,170 +1,100 @@
-\documentclass[aspectratio=169]{beamer}
+\documentclass[aspectratio=169,shownotes]{beamer}
 \usepackage{graphicx} 
-\usetheme{teutonia}
+\usepackage[]{tikz}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage[normalem]{ulem}
+\usepackage{hyperref}
+\usepackage{forest}
+\usepackage{caption}
+
+\captionsetup{justification=raggedright,singlelinecheck=false,font=tiny}
+
 \title{Studieren im Digitalen Zeitalter \\\small Tools und Methoden\\ V0.1}
 \author{Florian Rössing}
 \date{\today}
+
+\definecolor{folderbg}{RGB}{255,160,0}
+\definecolor{folderbody}{RGB}{255,202,40}
+\def\Size{4pt}
+\tikzset{
+  folder/.pic={
+    \filldraw[rounded corners=0.3pt,color=folderbg](1pt,0.5*\Size-1pt) rectangle (1pt+0.4*9/6*\Size,0.5*\Size+1pt);  
+    \filldraw[rounded corners=0.3pt,color=folderbody](1pt,-.5*\Size) rectangle (9/6*\Size+1pt,.5*\Size);  
+    %\filldraw[](-\Size,-\Size) rectangle (\Size,\Size);
+  }
+}
 
 \begin{document}
 
 \maketitle
 
-\section{Einführung}
-\begin{frame}{Ich}
-    Kurzer Lebenslauf und Motivation
-\end{frame}
+\include{Einführung}
 
-\begin{frame}{Worüber rede ich?}
-\tableofcontents[sectionstyle=show,subsectionstyle=show/hide]
-\end{frame}
+\include{Tools}
 
-\section{Anforderungen von Studenten}
-\begin{frame}{Übersicht}
-Was sind klassische Arbeiten eines Studenten?
-    \begin{itemize}
-        \item Mitschreiben
-        \item Aufgaben bearbeiten
-        \item Quellen sichten
-        \item Präsentieren
-        \item Kollaborieren        
-    \end{itemize}
-    $\Rightarrow$ Wissen ansammeln und Teilen
-\end{frame}
-\section{Kriterien für die Auswahl von Tools}
-\begin{frame}{Die FAIR Prinzipien}
-    \begin{itemize}[]
-        \item[] \textbf{F}indable - Auffindbar
-        \begin{itemize}
-            \item Eure Daten sollten leicht zu durchsuchen sein
-            \item Eure Daten sollten gut strukturiert sein
-        \end{itemize}
-        \item[] \textbf{A}ccessible - Zugänglich
-        \begin{itemize}
-            \item Ihr solltet jederzeit Zugang zu euren Daten haben
+\include{Tools2}
+
+\include{Methoden}
+
+
+
+\begin{frame}{Honorable Mentions}
+    \begin{columns}[t]
+        \begin{column}{0.4\textwidth}
+            \vspace{-2em} 
+            \begin{figure}
+                \begin{flushleft}
+                    \includegraphics[height=0.8\textheight,trim={4cm 0 17cm 0},clip]{graphics/winner-1548239_1280.jpg}
+                    \caption*{\href{https://pixabay.com/photos/winner-medal-gold-award-success-1548239/}{AxxLC on pixabay}}    
+                \end{flushleft}                
+            \end{figure}            
+        \end{column}
+        \begin{column}{0.6\textwidth}
             \begin{itemize}
-                \item Habt immer eine lokale Kopie!
-            \end{itemize}
-        \item Macht eure Notizen auch euren Mitstreitern zugänglich
-    \end{itemize}
-        \item[] \textbf{I}nteroperable - Interoperabel
-        \begin{itemize}
-            \item Verwendet gängige Dateiformate
-            \item Stellt eure Quellen offen, nicht nur PDFs
-        \end{itemize}
-        \item[] \textbf{R}eusable - Wiederverwendbar
-        \begin{itemize}
-            \item ? 
-        \end{itemize}
-    \end{itemize}
-\end{frame}
-
-\section{Ausgewählte Tools}
-
-\subsection{Mitschriften}
-
-\begin{frame}{Legt euch ein System für Notizen zu}
-    \begin{block}
-           
-    \end{block}    
-    \begin{itemize}
-        \item OneNote
-        \item Google Keep \& Google Docs
-        \item Evernote
-        \item \LaTeX - Overleaf
-        \item Markdown Editoren    
-    \end{itemize}
-\end{frame}
-\begin{frame}{Welche Features sind hilfreich?}
-    \begin{enumerate}
-        \item Notizen Verknüpfen
-        \item Verknüpfungen zu Quellen herstellen
-        
-    \end{enumerate}
-    
-\end{frame}
-
-\subsection{Kollaboration}
-
-\begin{frame}{Daten Teilen}
-    \begin{itemize}
-        \item Cloud Dienste
-            \begin{itemize}
-                \item Google Drive
-                \item OneDrive
-                \item Dropbox
-                \item Sciebo
+                \item Online Lern Plattformen
                 \begin{itemize}
-                    \item Eine offene Cloud die von deutschen Hochschulen bereitgestellt wird. Studenten bekommen 30 GB kostenlosen Speicherplatz.
-                \end{itemize}
+                    \item \href{https://ocw.mit.edu/}{MIT Open Coureseware}
+                \end{itemize}  
+                \item Tree Style Tabs Browser Plugins
+                \begin{itemize}
+                    \item Organisiert Browsertabs besser
+                \end{itemize}  
+                \item Passwort Manager
+                \begin{itemize}
+                    \item Generell eine gute Empfehlung
+                \end{itemize}  
+                \item GitHub
+                \begin{itemize}
+                    \item Eine Gute Quelle und eine gute Möglichkeit zum Online Stellen von Material
+                \end{itemize} 
+                \item \LaTeX  
             \end{itemize}
-        \item GitHub 
-        \begin{itemize}
-            \item Git ist ein Versionskontroll-Tool aus der Softwareentwicklung. Auf GitHub kann man seine Projekte veröffentlichen.
-        \end{itemize}
-    \end{itemize}    
+        \end{column}
+    \end{columns}
 \end{frame}
 
-\begin{frame}{Collaboration}
-    \begin{itemize}
-        \item WhatsApp
-        \item Slack
-        \item Discord
-        \item Matrix        
-    \end{itemize}
+\begin{frame}{Themen über die wir sonst noch reden können}
+    \begin{columns}
+        \begin{column}{0.6\textwidth}
+            \begin{itemize}
+                \item Wie komme ich an einen günstigen Laptop?
+                \item Wie Google ich richtig?
+                \item Exkurse
+                \begin{itemize}
+                    \item in mein Notiz System: Obsidian
+                    \item in meine Zotero Bibliothek
+                \end{itemize} 
+            \end{itemize}
+        \end{column}
+        \begin{column}{0.4\textwidth}
+            \begin{figure}
+                \begin{flushleft}
+                    \includegraphics[width=\textwidth,trim={0 0 0 0},clip]{graphics/QRCode.png}
+                \end{flushleft}                
+            \end{figure}               
+        \end{column}
+    \end{columns}
 \end{frame}
-
-\subsection{Literatur Recherche}
-\begin{frame}{Recherche Tools}
-    \begin{itemize}
-        \item Google, Google Scholar
-        \item Connected Papers
-        \item ChatGPT
-        \item Eure Uni Bibliothek!
-    \end{itemize}    
-\end{frame}
-
-\begin{frame}{Literatur Verwaltung}
-    \begin{itemize}
-        \item Zotero
-        \item Citavi
-        \item Mendeley
-        \item ...
-    \end{itemize}    
-\end{frame}
-
-\begin{frame}{Lernt Googlen}
-    \begin{itemize}
-        \item \textit{site:} beschränke die Suche auf eine Webseite
-        \item \textit{filetype:} sucht nach Dateien vom Typ
-        \item \textit{""}  Muss im Ergebnis vorkommen
-        \item \textit{-} Darf nicht im Ergebnis vorkommen
-        \item \textit{AND,OR} Logisches Verknüpfen von Suchbegriffen
-    \end{itemize}
-\end{frame}
-\begin{frame}{Einer für Alle?}
-    \begin{itemize}
-        \item Google Workspace
-        \item Office365
-        \item Sciebo?
-    \end{itemize}
-    
-    \begin{itemize}
-        \item[+] bieten Tools für so ziemlich jeden Bedarf.
-        \item[x] sperrt euch in dem jeweiligen Ökosystem ein
-        \item[x] Möglicherweise durch Arbeitgeber gesperrt -> keine Zukunftsaussichten?
-    \end{itemize}  
-\end{frame}
-\section{Addendum}
-\subsection{Günstige Hardware}
-\begin{frame}{Ein Laptop für den schmalen Euro}
-    
-\end{frame}
-\subsection{Support}
-\begin{frame}{Das HRZ}
-    
-\end{frame}
-\begin{frame}{Online Communities}
-    
-\end{frame}
-
+\include{Anhänge}
 \end{document}
