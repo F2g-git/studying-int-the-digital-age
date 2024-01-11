@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,7 +536,7 @@ Package: amsthm 2020/05/29 v2.20.6
 ) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
-) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (./beamerthemeteutonia.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (c:/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -587,55 +587,81 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count343
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
+))) (c:/texlive/2023/texmf-dist/tex/latex/progressbar/progressbar.sty
+Package: progressbar 2014/05/04 v1.0b~4: progressbar
+ (c:/texlive/2023/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count344
+\calc@Bcount=\count345
+\calc@Adimen=\dimen307
+\calc@Bdimen=\dimen308
+\calc@Askip=\skip65
+\calc@Bskip=\skip66
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count346
+\calc@Cskip=\skip67
+)
+\BarWidth=\skip68
+\BarWidthCenter=\skip69
+\BarHeight=\skip70
+\BarHeightCenter=\skip71
+\BarBorderWidth=\skip72
+\BarRoundedCorners=\skip73
+\BarPartWidth=\skip74
+\BarSubDivisionsWidthANU=\skip75
+\BarSubDivisionsWidthBNU=\skip76
+\BarSubDivisionsWidthCNU=\skip77
+\c@progressbar@counter=\count347
+) (./beamerinnerthemeteutonia.sty) (./beamerouterthemeteutonia.sty) (./beamercolorthemeteutonia.sty)) (c:/texlive/2023/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
  (c:/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen307
+\col@sep=\dimen309
 \ar@mcellbox=\box81
-\extrarowheight=\dimen308
+\extrarowheight=\dimen310
 \NC@list=\toks48
-\extratabsurround=\skip65
-\backup@length=\skip66
+\extratabsurround=\skip78
+\backup@length=\skip79
 \ar@cellbox=\box82
 )
-\TX@col@width=\dimen309
-\TX@old@table=\dimen310
-\TX@old@col=\dimen311
-\TX@target=\dimen312
-\TX@delta=\dimen313
-\TX@cols=\count344
+\TX@col@width=\dimen311
+\TX@old@table=\dimen312
+\TX@old@col=\dimen313
+\TX@target=\dimen314
+\TX@delta=\dimen315
+\TX@cols=\count348
 \TX@ftn=\toks49
 ) (c:/texlive/2023/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen314
-\lightrulewidth=\dimen315
-\cmidrulewidth=\dimen316
-\belowrulesep=\dimen317
-\belowbottomsep=\dimen318
-\aboverulesep=\dimen319
-\abovetopsep=\dimen320
-\cmidrulesep=\dimen321
-\cmidrulekern=\dimen322
-\defaultaddspace=\dimen323
-\@cmidla=\count345
-\@cmidlb=\count346
-\@aboverulesep=\dimen324
-\@belowrulesep=\dimen325
-\@thisruleclass=\count347
-\@lastruleclass=\count348
-\@thisrulewidth=\dimen326
+\heavyrulewidth=\dimen316
+\lightrulewidth=\dimen317
+\cmidrulewidth=\dimen318
+\belowrulesep=\dimen319
+\belowbottomsep=\dimen320
+\aboverulesep=\dimen321
+\abovetopsep=\dimen322
+\cmidrulesep=\dimen323
+\cmidrulekern=\dimen324
+\defaultaddspace=\dimen325
+\@cmidla=\count349
+\@cmidlb=\count350
+\@aboverulesep=\dimen326
+\@belowrulesep=\dimen327
+\@thisruleclass=\count351
+\@lastruleclass=\count352
+\@thisrulewidth=\dimen328
 ) (c:/texlive/2023/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box83
 \UL@hyphenbox=\box84
-\UL@skip=\skip67
+\UL@skip=\skip80
 \UL@hook=\toks50
-\UL@height=\dimen327
-\UL@pe=\count349
-\UL@pixel=\dimen328
+\UL@height=\dimen329
+\UL@pe=\count353
+\UL@pixel=\dimen330
 \ULC@box=\box85
 Package: ulem 2019/11/18
-\ULdepth=\dimen329
+\ULdepth=\dimen331
 ) (c:/texlive/2023/texmf-dist/tex/latex/forest/forest.sty
 Package: forest 2017/07/14 v2.1.5 Drawing (linguistic) trees
  (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
@@ -685,7 +711,7 @@ File: tikzlibraryfit.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.code.tex (c:/texlive/2023/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
-\pgf@intersect@solutions=\count350
+\pgf@intersect@solutions=\count354
 ) (c:/texlive/2023/texmf-dist/tex/latex/pgfopts/pgfopts.sty
 Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
 \pgfopts@list@add@a@toks=\toks51
@@ -700,103 +726,103 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 Package: expl3 2023-11-01 L3 programming layer (loader) 
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-10-23 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count351
+\l__color_backend_stack_int=\count355
 \l__pdf_internal_box=\box106
 ))
 Package: xparse 2023-10-10 L3 Experimental document command parser
 ) (c:/texlive/2023/texmf-dist/tex/latex/inlinedef/inlinedef.sty
 Package: inlinedef 2008/07/10 v1.0 Inlined expansions within definitions
 \ID@toks=\toks53
-\ID@count=\count352
+\ID@count=\count356
 )
 \ID@usercommands=\toks54
-\safeloop@depth=\count353
-\safeRKloop@depth=\count354
-\forest@temp@dimen=\dimen330
-\forest@temp@count=\count355
-\forest@n=\count356
-\forest@temp@global@count=\count357
+\safeloop@depth=\count357
+\safeRKloop@depth=\count358
+\forest@temp@dimen=\dimen332
+\forest@temp@count=\count359
+\forest@n=\count360
+\forest@temp@global@count=\count361
 \forest@temp@toks=\toks55
-\forest@temparray@M=\count358
-\forest@temparray@N=\count359
-\forest@global@temparray@M=\count360
-\forest@global@temparray@N=\count361
-\forest@isnum@count=\count362
-\forest@isdim@nonintpart=\count363
-\forest@isdim@dimen=\dimen331
-\forest@sort@m=\count364
-\forest@sort@k=\count365
-\forest@sort@p=\count366
+\forest@temparray@M=\count362
+\forest@temparray@N=\count363
+\forest@global@temparray@M=\count364
+\forest@global@temparray@N=\count365
+\forest@isnum@count=\count366
+\forest@isdim@nonintpart=\count367
+\forest@isdim@dimen=\dimen333
+\forest@sort@m=\count368
+\forest@sort@k=\count369
+\forest@sort@p=\count370
 \bracket@content=\toks56
 \bracket@afterthought=\toks57
-\forest@node@maxid=\count367
-\forest@process@left@M=\count368
-\forest@process@left@N=\count369
-\forest@process@right@M=\count370
-\forest@process@right@N=\count371
-\forest@process@saved@M=\count372
-\forest@process@saved@N=\count373
-\forest@process@result@M=\count374
-\forest@process@result@N=\count375
-\forest@process@n=\count376
+\forest@node@maxid=\count371
+\forest@process@left@M=\count372
+\forest@process@left@N=\count373
+\forest@process@right@M=\count374
+\forest@process@right@N=\count375
+\forest@process@saved@M=\count376
+\forest@process@saved@N=\count377
+\forest@process@result@M=\count378
+\forest@process@result@N=\count379
+\forest@process@n=\count380
 \forest@nodewalk@branch@toks=\toks58
 \forest@nodewalk@shortsteps@resolution=\toks59
 \forest@do@dynamics=\toks60
 \forest@box=\box107
-\forest@xg=\dimen332
-\forest@yg=\dimen333
-\forest@xs=\dimen334
-\forest@ys=\dimen335
+\forest@xg=\dimen334
+\forest@yg=\dimen335
+\forest@xs=\dimen336
+\forest@ys=\dimen337
 \forest@pi@toks=\toks61
 \forest@segment@toks=\toks62
 \forest@PIi@toks=\toks63
 \forest@PIii@toks=\toks64
 \forest@copy@in=\read3
 \forest@copy@out=\write5
-\forest@externalize@max@outer@n=\count377
-\forest@externalize@inner@n=\count378
+\forest@externalize@max@outer@n=\count381
+\forest@externalize@inner@n=\count382
 ) (c:/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (c:/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen336
-\captionmargin=\dimen337
-\caption@leftmargin=\dimen338
-\caption@rightmargin=\dimen339
-\caption@width=\dimen340
-\caption@indent=\dimen341
-\caption@parindent=\dimen342
-\caption@hangindent=\dimen343
+\caption@tempdima=\dimen338
+\captionmargin=\dimen339
+\caption@leftmargin=\dimen340
+\caption@rightmargin=\dimen341
+\caption@width=\dimen342
+\caption@indent=\dimen343
+\caption@parindent=\dimen344
+\caption@hangindent=\dimen345
 Package caption Info: beamer document class detected.
  (c:/texlive/2023/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
-\c@caption@flags=\count379
-\c@continuedfloat=\count380
+\c@caption@flags=\count383
+\c@continuedfloat=\count384
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 ) (./main.aux (./Einführung.aux) (./Tools.aux) (./Tools2.aux) (./Methoden.aux) (./Anhänge.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -834,16 +860,16 @@ LaTeX Font Info:    ... okay on input line 28.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count381
-\scratchdimen=\dimen344
+\scratchcounter=\count385
+\scratchdimen=\dimen346
 \scratchbox=\box108
-\nofMPsegments=\count382
-\nofMParguments=\count383
+\nofMPsegments=\count386
+\nofMParguments=\count387
 \everyMPshowfont=\toks65
-\MPscratchCnt=\count384
-\MPscratchDim=\dimen345
-\MPnumerator=\count385
-\makeMPintoPDFobject=\count386
+\MPscratchCnt=\count388
+\MPscratchDim=\dimen347
+\MPnumerator=\count389
+\makeMPintoPDFobject=\count390
 \everyMPtoPDFconversion=\toks66
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -851,60 +877,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 28.
+Package hyperref Info: Link coloring OFF on input line 29.
  (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 28.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 28.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 28.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 28.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 28.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 28.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 28.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 28.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 28.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 28.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 28.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 28.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 28.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 29.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 28.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 28.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 28.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 28.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 29.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 28.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 29.
  (c:/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (c:/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -920,12 +946,41 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (./main.nav) [1
+ (./main.nav)
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 31.
+Package epstopdf Info: Output file is already uptodate.
+<Zirkel-eps-converted-to.pdf, id=41, 385.44pt x 658.46pt>
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 31.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [1
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Zirkel-eps-converted-to.pdf>]
 \openout2 = `Einführung.aux'.
 
- (./Einführung.tex [2
+ (./Einführung.tex
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 8.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 8.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [2
 
 
 ] (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd) (c:/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd) (c:/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd)
@@ -933,39 +988,107 @@ Underfull \hbox (badness 10000) in alignment at lines 28--28
 [][][] 
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 28.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [3
 
-] [4
+]
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 47.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 47.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [4
 
-] [5
+]
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 47.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 47.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [5
 
-] [6
+]
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 47.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 47.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [6
 
 ]
 Underfull \hbox (badness 10000) in alignment at lines 73--73
 [][] 
  []
 
-<graphics/Meine_Mitschriften.jpg, id=202, 602.25pt x 903.375pt>
+<graphics/Meine_Mitschriften.jpg, id=89, 602.25pt x 903.375pt>
 File: graphics/Meine_Mitschriften.jpg Graphic file (type jpg)
 <use graphics/Meine_Mitschriften.jpg>
 Package pdftex.def Info: graphics/Meine_Mitschriften.jpg  used on input line 73.
 (pdftex.def)             Requested size: 85.35826pt x 128.02927pt.
-<graphics/Meine_Mitschriften_Tablet.png, id=203, 685.8122pt x 824.32968pt>
+<graphics/Meine_Mitschriften_Tablet.png, id=90, 685.8122pt x 824.32968pt>
 File: graphics/Meine_Mitschriften_Tablet.png Graphic file (type png)
 <use graphics/Meine_Mitschriften_Tablet.png>
 Package pdftex.def Info: graphics/Meine_Mitschriften_Tablet.png  used on input line 73.
 (pdftex.def)             Requested size: 85.35826pt x 102.58813pt.
-<graphics/Meine-Unterlagen.png, id=205, 197.98969pt x 365.86688pt>
+<graphics/Meine-Unterlagen.png, id=92, 197.98969pt x 365.86688pt>
 File: graphics/Meine-Unterlagen.png Graphic file (type png)
 <use graphics/Meine-Unterlagen.png>
 Package pdftex.def Info: graphics/Meine-Unterlagen.png  used on input line 73.
 (pdftex.def)             Requested size: 85.35826pt x 157.7328pt.
-<graphics/overwhelmed_student_2.jpg, id=206, 1129.21875pt x 1129.21875pt>
+<graphics/overwhelmed_student_2.jpg, id=93, 1129.21875pt x 1129.21875pt>
 File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [7
 
  <./graphics/Meine_Mitschriften.jpg> <./graphics/Meine_Mitschriften_Tablet.png> <./graphics/Meine-Unterlagen.png> <./graphics/overwhelmed_student_2.jpg>]
@@ -989,6 +1112,19 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [8
 
 ]
@@ -1012,6 +1148,19 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [9
 
 ]
@@ -1035,6 +1184,19 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [10
 
 ]
@@ -1058,6 +1220,19 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [11
 
 ]
@@ -1081,38 +1256,82 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 <use graphics/overwhelmed_student_2.jpg>
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [12
 
 ])
 \openout2 = `Tools.aux'.
 
- (./Tools.tex [13
+ (./Tools.tex
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 7.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 7.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [13
 
 
 
 
 ]
-<graphics/F.pdf, id=391, 28.83574pt x 51.60078pt>
+<graphics/F.pdf, id=142, 28.83574pt x 51.60078pt>
 File: graphics/F.pdf Graphic file (type pdf)
 <use graphics/F.pdf>
 Package pdftex.def Info: graphics/F.pdf  used on input line 50.
 (pdftex.def)             Requested size: 25.44151pt x 45.52458pt.
-<graphics/A.pdf, id=392, 46.10828pt x 51.8176pt>
+<graphics/A.pdf, id=143, 46.10828pt x 51.8176pt>
 File: graphics/A.pdf Graphic file (type pdf)
 <use graphics/A.pdf>
 Package pdftex.def Info: graphics/A.pdf  used on input line 50.
 (pdftex.def)             Requested size: 40.50926pt x 45.52458pt.
-<graphics/I.pdf, id=393, 18.64566pt x 51.60077pt>
+<graphics/I.pdf, id=144, 18.64566pt x 51.60077pt>
 File: graphics/I.pdf Graphic file (type pdf)
 <use graphics/I.pdf>
 Package pdftex.def Info: graphics/I.pdf  used on input line 50.
 (pdftex.def)             Requested size: 16.45088pt x 45.52458pt.
-<graphics/R.pdf, id=394, 36.8577pt x 51.60078pt>
+<graphics/R.pdf, id=145, 36.8577pt x 51.60078pt>
 File: graphics/R.pdf Graphic file (type pdf)
 <use graphics/R.pdf>
 Package pdftex.def Info: graphics/R.pdf  used on input line 50.
 (pdftex.def)             Requested size: 32.51921pt x 45.52458pt.
- [14
+
+Overfull \vbox (0.53633pt too high) detected at line 50
+ []
+
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 50.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 50.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+[14
 
  <./graphics/F.pdf> <./graphics/A.pdf
 
@@ -1124,26 +1343,39 @@ pdfTeX warning: pdflatex.exe (file ./graphics/I.pdf): PDF inclusion: multiple pd
 
 pdfTeX warning: pdflatex.exe (file ./graphics/R.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
-<graphics/Logos/GoogleWorkspace.jpeg, id=451, 475.7775pt x 154.5775pt>
+<graphics/Logos/GoogleWorkspace.jpeg, id=185, 475.7775pt x 154.5775pt>
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
 Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
-<graphics/Logos/Office365.png, id=452, 3854.4pt x 2168.1pt>
+<graphics/Logos/Office365.png, id=186, 3854.4pt x 2168.1pt>
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
 Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
-<graphics/Logos/Evernote.jpeg, id=453, 475.7775pt x 266.9975pt>
+<graphics/Logos/Evernote.jpeg, id=187, 475.7775pt x 266.9975pt>
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
 Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
-<graphics/Logos/Notion.jpeg, id=454, 475.7775pt x 167.62625pt>
+<graphics/Logos/Notion.jpeg, id=188, 475.7775pt x 167.62625pt>
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
 Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 63.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [15
 
  <./graphics/Logos/GoogleWorkspace.jpeg> <./graphics/Logos/Office365.png> <./graphics/Logos/Evernote.jpeg> <./graphics/Logos/Notion.jpeg>]
@@ -1163,155 +1395,337 @@ File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
 Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 63.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [16
 
 ]
-<graphics/tools-864983_1280.jpg, id=507, 1284.8pt x 856.19875pt>
+<graphics/tools-864983_1280.jpg, id=224, 1284.8pt x 856.19875pt>
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
 Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 100.
-(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
+(pdftex.def)             Requested size: 131.13657pt x 195.79393pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 100--100
+Overfull \hbox (15.62106pt too wide) in paragraph at lines 100--100
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 100
+Overfull \vbox (2.83034pt too high) detected at line 100
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 100.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [17
 
  <./graphics/tools-864983_1280.jpg>]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
 Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 130.
-(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
+(pdftex.def)             Requested size: 131.13657pt x 195.79393pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 130--130
+Overfull \hbox (15.62106pt too wide) in paragraph at lines 130--130
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 130
+Overfull \vbox (2.83034pt too high) detected at line 130
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 130.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [18
 
 ]
-<graphics/Flohmarkt.jpg, id=562, 1284.8pt x 785.93625pt>
+<graphics/Flohmarkt.jpg, id=245, 1284.8pt x 785.93625pt>
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
-(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+(pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 171.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 171.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [19
 
  <./graphics/Flohmarkt.jpg>]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
-(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+(pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 171.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 171.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [20
 
 ]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 199.
-(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+(pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 199.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 199.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [21
 
 ]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 231.
-(pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
+(pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 231.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 231.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [22
 
 ]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
 Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 260.
-(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
+(pdftex.def)             Requested size: 131.13657pt x 195.79393pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 260--260
+Overfull \hbox (15.62106pt too wide) in paragraph at lines 260--260
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 260
+Overfull \vbox (2.83034pt too high) detected at line 260
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 260.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 260.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [23
 
 ]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
 Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 287.
-(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
+(pdftex.def)             Requested size: 131.13657pt x 195.79393pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 287--287
+Overfull \hbox (15.62106pt too wide) in paragraph at lines 287--287
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 287
+Overfull \vbox (2.83034pt too high) detected at line 287
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 287.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 287.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [24
 
 ]
-<graphics/correcting-1870721_1280.jpg, id=739, 1284.8pt x 856.19875pt>
+<graphics/correcting-1870721_1280.jpg, id=309, 1284.8pt x 856.19875pt>
 File: graphics/correcting-1870721_1280.jpg Graphic file (type jpg)
 <use graphics/correcting-1870721_1280.jpg>
 Package pdftex.def Info: graphics/correcting-1870721_1280.jpg  used on input line 313.
-(pdftex.def)             Requested size: 178.78972pt x 151.24641pt.
+(pdftex.def)             Requested size: 173.58507pt x 146.84637pt.
 
-Overfull \hbox (19.45673pt too wide) in paragraph at lines 313--313
+Overfull \hbox (14.25208pt too wide) in paragraph at lines 313--313
 []  
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 313.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 313.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [25
 
  <./graphics/correcting-1870721_1280.jpg>]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
 Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 337.
-(pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
+(pdftex.def)             Requested size: 131.13657pt x 195.79393pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 337--337
+Overfull \hbox (15.62106pt too wide) in paragraph at lines 337--337
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 337
+Overfull \vbox (2.83034pt too high) detected at line 337
  []
 
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 337.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 337.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
 [26
 
 ]
-<graphics/final.jpg, id=797, 451.6875pt x 602.25pt>
+<graphics/final.jpg, id=332, 451.6875pt x 602.25pt>
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
 Package pdftex.def Info: graphics/final.jpg  used on input line 364.
-(pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
+(pdftex.def)             Requested size: 146.84494pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 364.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [27
 
  <./graphics/final.jpg>]
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
 Package pdftex.def Info: graphics/final.jpg  used on input line 364.
-(pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
+(pdftex.def)             Requested size: 146.84494pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 364.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [28
 
 ])
 \openout2 = `Tools2.aux'.
 
  (./Tools2.tex
-<graphics/Zettelkasten.png, id=849, 870.25125pt x 1058.45438pt>
+<graphics/Zettelkasten.png, id=346, 870.25125pt x 1058.45438pt>
 File: graphics/Zettelkasten.png Graphic file (type png)
 <use graphics/Zettelkasten.png>
 Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 18.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 18.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 18.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [29
 
 
@@ -1322,11 +1736,24 @@ File: graphics/Zettelkasten.png Graphic file (type png)
 <use graphics/Zettelkasten.png>
 Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 37.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
-<graphics/Logos/anki.png, id=876, 3.9318pt x 0.93614pt>
+<graphics/Logos/anki.png, id=369, 3.9318pt x 0.93614pt>
 File: graphics/Logos/anki.png Graphic file (type png)
 <use graphics/Logos/anki.png>
 Package pdftex.def Info: graphics/Logos/anki.png  used on input line 37.
 (pdftex.def)             Requested size: 239.00558pt x 57.0491pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [30
 
  <./graphics/Logos/anki.png>]
@@ -1334,118 +1761,226 @@ File: graphics/Zettelkasten.png Graphic file (type png)
 <use graphics/Zettelkasten.png>
 Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 63.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 63.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [31
 
 ]
-<graphics/call-2946023_1280.jpg, id=932, 1284.8pt x 857.2025pt>
+<graphics/call-2946023_1280.jpg, id=400, 1284.8pt x 857.2025pt>
 File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
 <use graphics/call-2946023_1280.jpg>
 Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 90.
-(pdftex.def)             Requested size: 161.68147pt x 201.6606pt.
-
-Overfull \hbox (2.34848pt too wide) in paragraph at lines 90--90
-[]  
- []
-
-
-Overfull \vbox (8.75926pt too high) detected at line 90
- []
-
-[32
+(pdftex.def)             Requested size: 156.9832pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 90.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 90.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [32
 
  <./graphics/call-2946023_1280.jpg>]
 File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
 <use graphics/call-2946023_1280.jpg>
 Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 118.
-(pdftex.def)             Requested size: 161.68147pt x 201.6606pt.
-
-Overfull \hbox (2.34848pt too wide) in paragraph at lines 118--118
-[]  
- []
-
-
-Overfull \vbox (8.75926pt too high) detected at line 118
- []
-
-[33
+(pdftex.def)             Requested size: 156.9832pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 118.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [33
 
 ])
 \openout2 = `Methoden.aux'.
 
- (./Methoden.tex [34
+ (./Methoden.tex
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 76.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 76.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [34
 
 
 
 
 ]
-<graphics/Kalender/Kalender5.PNG, id=1015, 1653.17625pt x 950.04938pt>
+<graphics/Kalender/Kalender5.PNG, id=443, 1653.17625pt x 950.04938pt>
 File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
 <use graphics/Kalender/Kalender5.PNG>
 Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 84.
 (pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 84.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [35
 
  <./graphics/Kalender/Kalender5.PNG>]
-<graphics/MyDailyPlan.png, id=1043, 1147.28625pt x 837.1275pt>
+<graphics/MyDailyPlan.png, id=452, 1147.28625pt x 837.1275pt>
 File: graphics/MyDailyPlan.png Graphic file (type png)
 <use graphics/MyDailyPlan.png>
 Package pdftex.def Info: graphics/MyDailyPlan.png  used on input line 90.
-(pdftex.def)             Requested size: 207.82986pt x 201.6606pt.
+(pdftex.def)             Requested size: 201.78731pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 90.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 90.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [36
 
  <./graphics/MyDailyPlan.png>]
-<graphics/diary-614149_960_720.jpg, id=1072, 358.33875pt x 542.025pt>
+<graphics/diary-614149_960_720.jpg, id=463, 358.33875pt x 542.025pt>
 File: graphics/diary-614149_960_720.jpg Graphic file (type jpg)
 <use graphics/diary-614149_960_720.jpg>
 Package pdftex.def Info: graphics/diary-614149_960_720.jpg  used on input line 122.
 (pdftex.def)             Requested size: 119.50279pt x 180.7545pt.
- [37
+
+Overfull \vbox (1.35052pt too high) detected at line 122
+ []
+
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 122.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+[37
 
  <./graphics/diary-614149_960_720.jpg>]
-<graphics/TheDoneManifesto.jpg, id=1103, 722.7pt x 939.51pt>
+<graphics/TheDoneManifesto.jpg, id=476, 722.7pt x 939.51pt>
 File: graphics/TheDoneManifesto.jpg Graphic file (type jpg)
 <use graphics/TheDoneManifesto.jpg>
 Package pdftex.def Info: graphics/TheDoneManifesto.jpg  used on input line 144.
-(pdftex.def)             Requested size: 135.72646pt x 176.45158pt.
-<graphics/GTD.png, id=1105, 408.52625pt x 506.89375pt>
+(pdftex.def)             Requested size: 131.77861pt x 171.31828pt.
+<graphics/GTD.png, id=478, 408.52625pt x 506.89375pt>
 File: graphics/GTD.png Graphic file (type png)
 <use graphics/GTD.png>
 Package pdftex.def Info: graphics/GTD.png  used on input line 144.
-(pdftex.def)             Requested size: 142.20712pt x 176.45158pt.
+(pdftex.def)             Requested size: 138.06801pt x 171.31828pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 144.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [38
 
  <./graphics/TheDoneManifesto.jpg> <./graphics/GTD.png>])
-<graphics/winner-1548239_1280.jpg, id=1133, 1284.8pt x 856.19875pt>
+<graphics/winner-1548239_1280.jpg, id=489, 1284.8pt x 856.19875pt>
 File: graphics/winner-1548239_1280.jpg Graphic file (type jpg)
 <use graphics/winner-1548239_1280.jpg>
-Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 75.
-(pdftex.def)             Requested size: 161.87024pt x 201.6606pt.
-
-Overfull \hbox (2.53725pt too wide) in paragraph at lines 75--75
-[]  
- []
-
-
-Overfull \vbox (8.75926pt too high) detected at line 75
- []
-
-[39
+Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 76.
+(pdftex.def)             Requested size: 157.16148pt x 195.79393pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 76.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 76.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [39
 
 
 
  <./graphics/winner-1548239_1280.jpg>]
-<graphics/QRCode.png, id=1163, 1018.80624pt x 1018.80624pt>
+<graphics/QRCode.png, id=501, 1018.80624pt x 1018.80624pt>
 File: graphics/QRCode.png Graphic file (type png)
 <use graphics/QRCode.png>
-Package pdftex.def Info: graphics/QRCode.png  used on input line 98.
+Package pdftex.def Info: graphics/QRCode.png  used on input line 99.
 (pdftex.def)             Requested size: 159.333pt x 159.32799pt.
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 99.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 99.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [40
 
  <./graphics/QRCode.png>]
 \openout2 = `Anhänge.aux'.
 
  (./Anhänge.tex
-<graphics/ThinkPad.jpg, id=1191, 835.12pt x 469.755pt>
+<graphics/ThinkPad.jpg, id=512, 835.12pt x 469.755pt>
 File: graphics/ThinkPad.jpg Graphic file (type jpg)
 <use graphics/ThinkPad.jpg>
 Package pdftex.def Info: graphics/ThinkPad.jpg  used on input line 27.
@@ -1453,10 +1988,38 @@ Package pdftex.def Info: graphics/ThinkPad.jpg  used on input line 27.
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 27.
  (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-) [41
+)
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 27.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 27.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [41
 
 
-{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./graphics/ThinkPad.jpg>] [42
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./graphics/ThinkPad.jpg>]
+Package epstopdf Info: Source file: <Zirkel.eps>
+(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    size: 29587 bytes
+(epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
+(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    size: 13806 bytes
+(epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
+(epstopdf)             \includegraphics on input line 37.
+Package epstopdf Info: Output file is already uptodate.
+File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
+<use Zirkel-eps-converted-to.pdf>
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 37.
+(pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
+ [42
 
 ])
 \tf@nav=\write7
@@ -1477,18 +2040,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: F1095B55D09B29134296F88821D7A197;855.
  ) 
 Here is how much of TeX's memory you used:
- 38534 strings out of 474271
- 851156 string characters out of 5751527
- 1947533 words of memory out of 5000000
- 60013 multiletter control sequences out of 15000+600000
+ 39086 strings out of 474271
+ 865370 string characters out of 5751527
+ 1949533 words of memory out of 5000000
+ 60546 multiletter control sequences out of 15000+600000
  572957 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 138i,14n,133p,1675b,2958s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 138i,16n,133p,1675b,2976s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on main.pdf (42 pages, 4584694 bytes).
+Output written on main.pdf (42 pages, 4583952 bytes).
 PDF statistics:
- 1323 PDF objects out of 1440 (max. 8388607)
- 1177 compressed objects within 12 object streams
+ 609 PDF objects out of 1000 (max. 8388607)
+ 408 compressed objects within 5 object streams
  92 named destinations out of 1000 (max. 500000)
- 330 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 515 words of extra memory for PDF output out of 10000 (max. 10000000)
 
