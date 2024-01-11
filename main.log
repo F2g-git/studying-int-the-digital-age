@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -948,10 +948,10 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
  (./main.nav)
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 31.
@@ -968,10 +968,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 31.
 
  (./Einführung.tex
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 8.
@@ -989,10 +989,10 @@ Underfull \hbox (badness 10000) in alignment at lines 28--28
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 28.
@@ -1005,10 +1005,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 28.
 
 ]
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 47.
@@ -1021,10 +1021,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 47.
 
 ]
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 47.
@@ -1037,10 +1037,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 47.
 
 ]
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 47.
@@ -1077,10 +1077,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1113,10 +1113,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1149,10 +1149,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1185,10 +1185,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1221,10 +1221,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1257,10 +1257,10 @@ File: graphics/overwhelmed_student_2.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/overwhelmed_student_2.jpg  used on input line 73.
 (pdftex.def)             Requested size: 113.80724pt x 113.81102pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 73.
@@ -1276,10 +1276,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 73.
 
  (./Tools.tex
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 7.
@@ -1319,10 +1319,10 @@ Overfull \vbox (0.53633pt too high) detected at line 50
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 50.
@@ -1364,10 +1364,10 @@ File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 63.
@@ -1396,10 +1396,10 @@ File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 63.
@@ -1426,10 +1426,10 @@ Overfull \vbox (2.83034pt too high) detected at line 100
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 100.
@@ -1455,10 +1455,10 @@ Overfull \vbox (2.83034pt too high) detected at line 130
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 130.
@@ -1476,10 +1476,10 @@ File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
 (pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 171.
@@ -1496,10 +1496,10 @@ File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
 (pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 171.
@@ -1516,10 +1516,10 @@ File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 199.
 (pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 199.
@@ -1536,10 +1536,10 @@ File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 231.
 (pdftex.def)             Requested size: 135.7744pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 231.
@@ -1565,10 +1565,10 @@ Overfull \vbox (2.83034pt too high) detected at line 260
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 260.
@@ -1594,10 +1594,10 @@ Overfull \vbox (2.83034pt too high) detected at line 287
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 287.
@@ -1620,10 +1620,10 @@ Overfull \hbox (14.25208pt too wide) in paragraph at lines 313--313
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 313.
@@ -1649,10 +1649,10 @@ Overfull \vbox (2.83034pt too high) detected at line 337
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 337.
@@ -1670,10 +1670,10 @@ File: graphics/final.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/final.jpg  used on input line 364.
 (pdftex.def)             Requested size: 146.84494pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 364.
@@ -1690,10 +1690,10 @@ File: graphics/final.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/final.jpg  used on input line 364.
 (pdftex.def)             Requested size: 146.84494pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 364.
@@ -1714,10 +1714,10 @@ File: graphics/Zettelkasten.png Graphic file (type png)
 Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 18.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 18.
@@ -1742,10 +1742,10 @@ File: graphics/Logos/anki.png Graphic file (type png)
 Package pdftex.def Info: graphics/Logos/anki.png  used on input line 37.
 (pdftex.def)             Requested size: 239.00558pt x 57.0491pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 37.
@@ -1762,10 +1762,10 @@ File: graphics/Zettelkasten.png Graphic file (type png)
 Package pdftex.def Info: graphics/Zettelkasten.png  used on input line 63.
 (pdftex.def)             Requested size: 159.333pt x 193.79216pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 63.
@@ -1783,10 +1783,10 @@ File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 90.
 (pdftex.def)             Requested size: 156.9832pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 90.
@@ -1803,10 +1803,10 @@ File: graphics/call-2946023_1280.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/call-2946023_1280.jpg  used on input line 118.
 (pdftex.def)             Requested size: 156.9832pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 118.
@@ -1822,10 +1822,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 118.
 
  (./Methoden.tex
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 76.
@@ -1846,10 +1846,10 @@ File: graphics/Kalender/Kalender5.PNG Graphic file (type png)
 Package pdftex.def Info: graphics/Kalender/Kalender5.PNG  used on input line 84.
 (pdftex.def)             Requested size: 318.67209pt x 183.13513pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 84.
@@ -1867,10 +1867,10 @@ File: graphics/MyDailyPlan.png Graphic file (type png)
 Package pdftex.def Info: graphics/MyDailyPlan.png  used on input line 90.
 (pdftex.def)             Requested size: 201.78731pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 90.
@@ -1892,10 +1892,10 @@ Overfull \vbox (1.35052pt too high) detected at line 122
  []
 
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 122.
@@ -1918,10 +1918,10 @@ File: graphics/GTD.png Graphic file (type png)
 Package pdftex.def Info: graphics/GTD.png  used on input line 144.
 (pdftex.def)             Requested size: 138.06801pt x 171.31828pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 144.
@@ -1939,10 +1939,10 @@ File: graphics/winner-1548239_1280.jpg Graphic file (type jpg)
 Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 76.
 (pdftex.def)             Requested size: 157.16148pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 76.
@@ -1962,10 +1962,10 @@ File: graphics/QRCode.png Graphic file (type png)
 Package pdftex.def Info: graphics/QRCode.png  used on input line 99.
 (pdftex.def)             Requested size: 159.333pt x 159.32799pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 99.
@@ -1990,10 +1990,10 @@ LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 2
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 27.
@@ -2007,10 +2007,10 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 27.
 
 {c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./graphics/ThinkPad.jpg>]
 Package epstopdf Info: Source file: <Zirkel.eps>
-(epstopdf)                    date: 2024-01-11 16:49:50
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 29587 bytes
 (epstopdf)             Output file: <Zirkel-eps-converted-to.pdf>
-(epstopdf)                    date: 2024-01-11 16:51:37
+(epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
 (epstopdf)             \includegraphics on input line 37.

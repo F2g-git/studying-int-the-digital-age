@@ -1,0 +1,8 @@
+*.toc
+*.snm
+*.fls
+*.aux
+*.log
+*.pdf
+*.nav
+.vscode\*
