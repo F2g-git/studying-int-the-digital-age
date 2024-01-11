@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 11:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1292,14 +1292,14 @@ Overfull \vbox (3.4997pt too high) detected at line 337
 <graphics/final.jpg, id=797, 451.6875pt x 602.25pt>
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
-Package pdftex.def Info: graphics/final.jpg  used on input line 363.
+Package pdftex.def Info: graphics/final.jpg  used on input line 364.
 (pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
  [27
 
  <./graphics/final.jpg>]
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
-Package pdftex.def Info: graphics/final.jpg  used on input line 363.
+Package pdftex.def Info: graphics/final.jpg  used on input line 364.
 (pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
  [28
 
@@ -1418,15 +1418,15 @@ Package pdftex.def Info: graphics/GTD.png  used on input line 144.
 <graphics/winner-1548239_1280.jpg, id=1133, 1284.8pt x 856.19875pt>
 File: graphics/winner-1548239_1280.jpg Graphic file (type jpg)
 <use graphics/winner-1548239_1280.jpg>
-Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 79.
+Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 75.
 (pdftex.def)             Requested size: 161.87024pt x 201.6606pt.
 
-Overfull \hbox (2.53725pt too wide) in paragraph at lines 79--79
+Overfull \hbox (2.53725pt too wide) in paragraph at lines 75--75
 []  
  []
 
 
-Overfull \vbox (8.75926pt too high) detected at line 79
+Overfull \vbox (8.75926pt too high) detected at line 75
  []
 
 [39
@@ -1437,7 +1437,7 @@ Overfull \vbox (8.75926pt too high) detected at line 79
 <graphics/QRCode.png, id=1163, 1018.80624pt x 1018.80624pt>
 File: graphics/QRCode.png Graphic file (type png)
 <use graphics/QRCode.png>
-Package pdftex.def Info: graphics/QRCode.png  used on input line 102.
+Package pdftex.def Info: graphics/QRCode.png  used on input line 98.
 (pdftex.def)             Requested size: 159.333pt x 159.32799pt.
  [40
 
@@ -1485,7 +1485,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  138i,14n,133p,1675b,2958s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on main.pdf (42 pages, 4584847 bytes).
+Output written on main.pdf (42 pages, 4584694 bytes).
 PDF statistics:
  1323 PDF objects out of 1440 (max. 8388607)
  1177 compressed objects within 12 object streams
