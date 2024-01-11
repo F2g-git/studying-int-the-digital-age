@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 16:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1127,41 +1127,41 @@ pdfTeX warning: pdflatex.exe (file ./graphics/R.pdf): PDF inclusion: multiple pd
 <graphics/Logos/GoogleWorkspace.jpeg, id=451, 475.7775pt x 154.5775pt>
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
 <graphics/Logos/Office365.png, id=452, 3854.4pt x 2168.1pt>
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
 <graphics/Logos/Evernote.jpeg, id=453, 475.7775pt x 266.9975pt>
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
 <graphics/Logos/Notion.jpeg, id=454, 475.7775pt x 167.62625pt>
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
  [15
 
  <./graphics/Logos/GoogleWorkspace.jpeg> <./graphics/Logos/Office365.png> <./graphics/Logos/Evernote.jpeg> <./graphics/Logos/Notion.jpeg>]
 File: graphics/Logos/GoogleWorkspace.jpeg Graphic file (type jpg)
 <use graphics/Logos/GoogleWorkspace.jpeg>
-Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/GoogleWorkspace.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 27.73074pt.
 File: graphics/Logos/Office365.png Graphic file (type png)
 <use graphics/Logos/Office365.png>
-Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Office365.png  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 48.0027pt.
 File: graphics/Logos/Evernote.jpeg Graphic file (type jpg)
 <use graphics/Logos/Evernote.jpeg>
-Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Evernote.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 47.89857pt.
 File: graphics/Logos/Notion.jpeg Graphic file (type jpg)
 <use graphics/Logos/Notion.jpeg>
-Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
+Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 62.
 (pdftex.def)             Requested size: 85.35826pt x 30.07166pt.
  [16
 
@@ -1169,15 +1169,15 @@ Package pdftex.def Info: graphics/Logos/Notion.jpeg  used on input line 63.
 <graphics/tools-864983_1280.jpg, id=507, 1284.8pt x 856.19875pt>
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
-Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 100.
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 99.
 (pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 100--100
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 99--99
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 100
+Overfull \vbox (3.4997pt too high) detected at line 99
  []
 
 [17
@@ -1185,15 +1185,15 @@ Overfull \vbox (3.4997pt too high) detected at line 100
  <./graphics/tools-864983_1280.jpg>]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
-Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 130.
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 129.
 (pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 130--130
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 129--129
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 130
+Overfull \vbox (3.4997pt too high) detected at line 129
  []
 
 [18
@@ -1202,43 +1202,43 @@ Overfull \vbox (3.4997pt too high) detected at line 130
 <graphics/Flohmarkt.jpg, id=562, 1284.8pt x 785.93625pt>
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
-Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 170.
 (pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
  [19
 
  <./graphics/Flohmarkt.jpg>]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
-Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 171.
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 170.
 (pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
  [20
 
 ]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
-Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 199.
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 198.
 (pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
  [21
 
 ]
 File: graphics/Flohmarkt.jpg Graphic file (type jpg)
 <use graphics/Flohmarkt.jpg>
-Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 231.
+Package pdftex.def Info: graphics/Flohmarkt.jpg  used on input line 230.
 (pdftex.def)             Requested size: 139.84114pt x 201.6606pt.
  [22
 
 ]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
-Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 260.
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 259.
 (pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 260--260
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 259--259
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 260
+Overfull \vbox (3.4997pt too high) detected at line 259
  []
 
 [23
@@ -1246,15 +1246,15 @@ Overfull \vbox (3.4997pt too high) detected at line 260
 ]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
-Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 287.
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 286.
 (pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 287--287
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 286--286
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 287
+Overfull \vbox (3.4997pt too high) detected at line 286
  []
 
 [24
@@ -1263,10 +1263,10 @@ Overfull \vbox (3.4997pt too high) detected at line 287
 <graphics/correcting-1870721_1280.jpg, id=739, 1284.8pt x 856.19875pt>
 File: graphics/correcting-1870721_1280.jpg Graphic file (type jpg)
 <use graphics/correcting-1870721_1280.jpg>
-Package pdftex.def Info: graphics/correcting-1870721_1280.jpg  used on input line 313.
+Package pdftex.def Info: graphics/correcting-1870721_1280.jpg  used on input line 312.
 (pdftex.def)             Requested size: 178.78972pt x 151.24641pt.
 
-Overfull \hbox (19.45673pt too wide) in paragraph at lines 313--313
+Overfull \hbox (19.45673pt too wide) in paragraph at lines 312--312
 []  
  []
 
@@ -1275,15 +1275,15 @@ Overfull \hbox (19.45673pt too wide) in paragraph at lines 313--313
  <./graphics/correcting-1870721_1280.jpg>]
 File: graphics/tools-864983_1280.jpg Graphic file (type jpg)
 <use graphics/tools-864983_1280.jpg>
-Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 337.
+Package pdftex.def Info: graphics/tools-864983_1280.jpg  used on input line 336.
 (pdftex.def)             Requested size: 135.0656pt x 201.6606pt.
 
-Overfull \hbox (19.5501pt too wide) in paragraph at lines 337--337
+Overfull \hbox (19.5501pt too wide) in paragraph at lines 336--336
 []  
  []
 
 
-Overfull \vbox (3.4997pt too high) detected at line 337
+Overfull \vbox (3.4997pt too high) detected at line 336
  []
 
 [26
@@ -1292,14 +1292,14 @@ Overfull \vbox (3.4997pt too high) detected at line 337
 <graphics/final.jpg, id=797, 451.6875pt x 602.25pt>
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
-Package pdftex.def Info: graphics/final.jpg  used on input line 364.
+Package pdftex.def Info: graphics/final.jpg  used on input line 363.
 (pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
  [27
 
  <./graphics/final.jpg>]
 File: graphics/final.jpg Graphic file (type jpg)
 <use graphics/final.jpg>
-Package pdftex.def Info: graphics/final.jpg  used on input line 364.
+Package pdftex.def Info: graphics/final.jpg  used on input line 363.
 (pdftex.def)             Requested size: 151.24216pt x 201.6606pt.
  [28
 
@@ -1479,13 +1479,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  38534 strings out of 474271
  851156 string characters out of 5751527
- 1947533 words of memory out of 5000000
+ 1946533 words of memory out of 5000000
  60013 multiletter control sequences out of 15000+600000
  572957 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,14n,133p,1675b,2958s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on main.pdf (42 pages, 4584694 bytes).
+Output written on main.pdf (42 pages, 4584663 bytes).
 PDF statistics:
  1323 PDF objects out of 1440 (max. 8388607)
  1177 compressed objects within 12 object streams
