@@ -1,0 +1,5 @@
+{
+    "latex-workshop.latex.autoBuild.run": "onSave",
+    "latex-workshop.latex.external.build.command": "make",
+    "latex-workshop.latex.autoClean.run": "onSucceeded"
+}
