@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  11 JAN 2024 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1936,7 +1936,7 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 144.
 <graphics/winner-1548239_1280.jpg, id=467, 1284.8pt x 856.19875pt>
 File: graphics/winner-1548239_1280.jpg Graphic file (type jpg)
 <use graphics/winner-1548239_1280.jpg>
-Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 76.
+Package pdftex.def Info: graphics/winner-1548239_1280.jpg  used on input line 75.
 (pdftex.def)             Requested size: 157.16148pt x 195.79393pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
 (epstopdf)                    date: 2024-01-11 16:58:30
@@ -1945,11 +1945,11 @@ Package epstopdf Info: Source file: <Zirkel.eps>
 (epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
-(epstopdf)             \includegraphics on input line 76.
+(epstopdf)             \includegraphics on input line 75.
 Package epstopdf Info: Output file is already uptodate.
 File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
 <use Zirkel-eps-converted-to.pdf>
-Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 76.
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 75.
 (pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [39
 
@@ -1959,7 +1959,7 @@ Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 76.
 <graphics/QRCode.png, id=479, 1018.80624pt x 1018.80624pt>
 File: graphics/QRCode.png Graphic file (type png)
 <use graphics/QRCode.png>
-Package pdftex.def Info: graphics/QRCode.png  used on input line 99.
+Package pdftex.def Info: graphics/QRCode.png  used on input line 98.
 (pdftex.def)             Requested size: 159.333pt x 159.32799pt.
 Package epstopdf Info: Source file: <Zirkel.eps>
 (epstopdf)                    date: 2024-01-11 16:58:30
@@ -1968,11 +1968,11 @@ Package epstopdf Info: Source file: <Zirkel.eps>
 (epstopdf)                    date: 2024-01-11 16:58:30
 (epstopdf)                    size: 13806 bytes
 (epstopdf)             Command: <repstopdf --outfile=Zirkel-eps-converted-to.pdf Zirkel.eps>
-(epstopdf)             \includegraphics on input line 99.
+(epstopdf)             \includegraphics on input line 98.
 Package epstopdf Info: Output file is already uptodate.
 File: Zirkel-eps-converted-to.pdf Graphic file (type pdf)
 <use Zirkel-eps-converted-to.pdf>
-Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 99.
+Package pdftex.def Info: Zirkel-eps-converted-to.pdf  used on input line 98.
 (pdftex.def)             Requested size: 33.30598pt x 56.9055pt.
  [40
 
@@ -2042,13 +2042,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  39077 strings out of 474271
  864982 string characters out of 5751527
- 1948533 words of memory out of 5000000
+ 1949533 words of memory out of 5000000
  60537 multiletter control sequences out of 15000+600000
  572957 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  138i,16n,133p,1675b,2976s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on main.pdf (42 pages, 4580676 bytes).
+Output written on main.pdf (42 pages, 4580458 bytes).
 PDF statistics:
  587 PDF objects out of 1000 (max. 8388607)
  398 compressed objects within 4 object streams
