@@ -1,3 +1,2 @@
 *.{aux,dvi,log,bbl,blg,brf,fls,toc,thm,out,fdb_latexmk,nav,snm}
 .\.vscode
-.\Misc

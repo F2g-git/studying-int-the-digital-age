@@ -1,3 +1,4 @@
+%& -job-name=Slides
 \documentclass[aspectratio=169,shownotes]{beamer}
 \usepackage{graphicx} 
 \usepackage[]{tikz}
@@ -7,7 +8,6 @@
 \usepackage{hyperref}
 \usepackage{forest}
 \usepackage{caption}
-\usepackage{Theme/beamerthemeteutonia}
 
 \captionsetup{justification=raggedright,singlelinecheck=false,font=tiny}
 
@@ -30,13 +30,13 @@
 
 \maketitle
 
-\include{Einfuehrung}
+\include{LaTeX/Einfuehrung}
 
-\include{Tools}
+\include{LaTeX/Tools}
 
-\include{Tools2}
+\include{LaTeX/Tools2}
 
-\include{Methoden}
+\include{LaTeX/Methoden}
 
 
 
@@ -96,5 +96,5 @@
         \end{column}
     \end{columns}
 \end{frame}
-\include{Anhaenge}
+\include{LaTeX/Anhaenge}
 \end{document}
